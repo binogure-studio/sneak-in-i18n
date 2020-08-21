@@ -1,0 +1,121 @@
+ru:
+  BUTTON_START: ИДТИ
+  BUTTON_LEAVE: назад
+  BUTTON_EXIT: Уволиться
+  LABEL_LOSE: О, ты в следующий раз сделаешь лучше
+  BUTTON_RETRY: ПОВТОР
+  LABEL_WIN: Ты восхитителен !
+  BUTTON_CONTINUE: ПРОДОЛЖАТЬ
+  LABEL_SCORE: Гол
+  LABEL_START_LEVEL: Давай начнем !
+  LABEL_START_INFINITE: Готовы принять вызов?
+  LABEL_LEVEL: уровень
+  BUTTON_CANCEL: Отмена
+  LABEL_CONGRATULATIONS: Поздравления !
+  LABEL_EXIT: Готов уходить ?
+  LABEL_EXIT_MESSAGE: Ты хочешь уйти ?
+  BUTTON_MAP: Перейти к карте
+  BUTTON_KEEP_PLAYING: Продолжай играть
+  LABEL_CONFIRM: Что дальше ?
+  LABEL_LOSE_LIFE: Вы действительно хотите потерять жизнь?
+  LABEL_MUSIC_VOLUME: Музыка
+  LABEL_FX_VOLUME: Звуковой эффект
+  LABEL_BATTERY_SAVER: Аккумулятор
+  BUTTON_CONNECT_FACEBOOK: Подключиться к Facebook
+  LABEL_ONEUP_LIFE_TITLE: Один вверх
+  LABEL_ONEUP_LIFE_DESCRIPTION: Потратьте больше времени на игру
+  LABEL_INFINITY_LIFE_TITLE: Бесконечная жизнь 1 час
+  LABEL_INFINITY_LIFE_DESCRIPTION: Будьте свободны играть!
+  LABEL_PACK_LIFES_TITLE: Жизнь
+  LABEL_PACK_LIFES_DESCRIPTION: Гимм муар!
+  LABEL_PAUSE_SNAKE_TITLE: Мраморная цепная пробка
+  LABEL_PAUSE_SNAKE_DESCRIPTION: Остановите цепь мрамора в течение 5 секунд
+  LABEL_BOMB_TITLE: Бомбить
+  LABEL_BOMB_DESCRIPTION: Броски бомбы, которая взрывает мрамор
+  LABEL_BURST_COLOR_TITLE: Всплеск мраморного цвета
+  LABEL_BURST_COLOR_DESCRIPTION: Всплеск всех мраморов одного цвета
+  LABEL_REFILL_POTION_TITLE: Заполнить жизнь
+  LABEL_REFILL_POTION_DESCRIPTION: Продолжай играть
+  LABEL_SUPER_PACK_TITLE: Супер пакет
+  LABEL_SUPER_PACK_DESCRIPTION: 3 бонуса жизни + 6-кратный блеск + 6-миллиметровый шарик-цепочка + 6-кратная бомба
+  LABEL_6_QUANTITY: шестые
+  LABEL_7_QUANTITY: седьмые
+  LABEL_8_QUANTITY: восьмых
+  LABEL_THANK_YOU: Спасибо за Вашу поддержку !
+  LABEL_BUY: Купить
+  BUTTON_FOLLOW_US_ON_TWITTER: Следуйте за нами на Twitter
+  LABEL_PLAY_MORE: О нет, тебе нужно лечить!
+  BUTTON_REFILL: Использовать зелье
+  LABEL_NO_GENERIC_COLOR_TO_BURST: Нет нормального шара в наличии
+  LABEL_MUSIC: Музыка
+  LABEL_SOUNDDESIGN: Звуковой дизайн
+  LABEL_GAMEBY: Игра по
+  LABEL_TAP_TO_SHOOT: Нажмите, чтобы стрелять
+  LABEL_WELCOME_SNEAKIN: Добро пожаловать в Sneak In
+  LABEL_YOUGETIT: Отлично сработано !
+  LABEL_COMBINATION: Сделать взрывную цепную реакцию
+  LABEL_READY_TO_GO: Вы готовы к первому уровню
+  LABEL_SPECIALTHANKS: Особая благодарность
+  LABEL_AWESOME: З-Д-О-Р-О-В-О
+  LABEL_BOMB_TUTORIEL: Нажмите значок бомбы, затем установите его
+  LABEL_TAP_TO_PLACE: Нажмите, чтобы установить бомбу
+  LABEL_LETSGO: Вы готовы пойти
+  LABEL_OTHERBONUSES: ... есть больше бонусов, чтобы попробовать
+  BUTTON_LAUNCH: Начало
+  BUTTON_FACEBOOK: Facebook
+  LABEL_INVITE_MESSAGE: Попробуйте SneakIn, его огромный.
+  LABEL_INVITE_ACTION: Установите SneakIn!
+  BUTTON_DISCONNECT_FACEBOOK: Отключить Facebook
+  BUTTON_INVITE: Пригласить друзей
+  LABEL_FACEBOOK_SHARE: >
+    Приходите бить %s, уровень %s
+  LABEL_INFINITE_SHARE: >
+    Приходите бить %s
+  BUTTON_SHARE: Поделиться
+  FACEBOOK_SHARE: Facebook
+  LABEL_LIKEIT: Сделайте, как Sneak In?
+  BUTTON_RATEIT: Оценить
+  LABEL_ASK_RATE: Если вам нравится играть в Sneak In, не могли бы вы принять момент, чтобы оценить его? Это займет не больше минуты. Спасибо за вашу поддержку!
+  LABEL_COPIED: Скопированный
+  LABEL_CONNECT_GOOGLE_PLAY: Подключение к Google Play Game
+  LABEL_SHARE_MESSAGE: Sneak In - Share
+  BUTTON_ACHIEVEMENTS: Показать достижения
+  BUTTON_DISCONNECT_GOOGLE: Отключить от Google Play Game
+  BUTTON_CONNECT_GOOGLE: Подключитесь к Google Play Game
+  LABEL_CONNECT_SUPPORT: Подключиться к поддержке
+  LABEL_INFINITE_MODE: Бесконечный режим
+  LABEL_BEGIN_INFINITE: Пойдем на новое приключение!
+  LABEL_WANT_MORE: Хочу больше ?
+  LABEL_CANNOT_LOAD_LEADERBOARD: Вам нужно подключиться к Google Play Game, чтобы отобразить таблицу лидеров
+  LABEL_RANK: Ранг
+  LABEL_BEST_SCORE: Лучший результат
+  LABEL_1: " "
+  LABEL_2: " "
+  LABEL_3: " "
+  LABEL_4: " "
+  LABEL_EMPTY_LEADERBOARD: Будьте первым, кто выиграет
+  LABEL_NEED_INTERNET_CONNECTION: Требуется подключение к Интернету
+  LABEL_COMPLETED: Цели завершены
+  LABEL_UNRANKED: Играйте в игру, которая будет ранжироваться
+  BUTTON_PLAY_INFINITE: Играть !
+  LABEL_ENGLISH: English
+  LABEL_FRENCH: Français
+  LABEL_GERMAN: Deutsch
+  LABEL_PORTUGESE: Português
+  LABEL_RUSSIAN: Pусский
+  LABEL_SIMPLIFIED_CHINESE: 简体中文
+  LABEL_SPANISH: Español
+  LABEL_ITALIAN: Italiano
+  LABEL_RESTART_GAME: Пожалуйста, перезапустите SneakIn
+  BUTTON_PRIVACY: политика конфиденциальности
+  LABEL_PRIVACY: Я принимаю 
+  LABEL_HEART_TITLE: Готов играть
+  LABEL_HEART_MESSAGE: Ты оправился всю жизнь
+  LABEL_TIP_00: Мрамор одного цвета привлекает друг друга.
+  LABEL_TIP_01: Вам нужно дважды выстрелить в квадратный мрамор, чтобы снова округлить его.
+  LABEL_TIP_02: Большие комбо зарабатывают более высокий балл.
+  LABEL_TIP_03: Заполните цели, чтобы остановить мрамор от нереста.
+  LABEL_TIP_04: Новая бесконечная мода каждую неделю.
+  LABEL_TIP_05: Невозможно расстрелять Сета с рептилиями.
+  LABEL_TIP_06: Зарабатывайте бонус каждый раз, когда вы завершаете мир.
+  LABEL_TIP_07: 7 волшебных мраморов.

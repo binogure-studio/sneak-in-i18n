@@ -1,0 +1,121 @@
+de:
+  BUTTON_START: GEHEN
+  BUTTON_LEAVE: Zurück
+  BUTTON_EXIT: Verlassen
+  LABEL_LOSE: Ach, du wirst es nächstes Mal besser machen
+  BUTTON_RETRY: WIEDERHOLEN
+  LABEL_WIN: Du bist unglaublich !
+  BUTTON_CONTINUE: FORTSETZEN
+  LABEL_SCORE: Ergebnis
+  LABEL_START_LEVEL: Lass uns anfangen !
+  LABEL_START_INFINITE: Bereit für die Herausforderung?
+  LABEL_LEVEL: Niveau
+  BUTTON_CANCEL: Stornieren
+  LABEL_CONGRATULATIONS: Herzliche Glückwünsche !
+  LABEL_EXIT: Bereit zu gehen ?
+  LABEL_EXIT_MESSAGE: Möchtest du gehen ?
+  BUTTON_MAP: Gehe zur Karte
+  BUTTON_KEEP_PLAYING: Weiter spielen
+  LABEL_CONFIRM: Was kommt als nächstes ?
+  LABEL_LOSE_LIFE: Willst du wirklich ein Leben verlieren?
+  LABEL_MUSIC_VOLUME: Musik
+  LABEL_FX_VOLUME: Soundeffekt
+  LABEL_BATTERY_SAVER: Batterieschoner
+  BUTTON_CONNECT_FACEBOOK: Verbinde dich mit Facebook
+  LABEL_ONEUP_LIFE_TITLE: Eins oben
+  LABEL_ONEUP_LIFE_DESCRIPTION: Verbringe mehr Zeit mit dem Spielen
+  LABEL_INFINITY_LIFE_TITLE: Unendlichkeitsleben 1h
+  LABEL_INFINITY_LIFE_DESCRIPTION: Sei frei zu spielen!
+  LABEL_PACK_LIFES_TITLE: Lebenspaket
+  LABEL_PACK_LIFES_DESCRIPTION: Gimme Moar!
+  LABEL_PAUSE_SNAKE_TITLE: Marbles Kettenstopper
+  LABEL_PAUSE_SNAKE_DESCRIPTION: Stoppen Sie die Murmelkette für 5 Sekunden
+  LABEL_BOMB_TITLE: Bombe
+  LABEL_BOMB_DESCRIPTION: Wirft eine Bombe, die Murmeln explodiert
+  LABEL_BURST_COLOR_TITLE: Burst eine Marmorfarbe
+  LABEL_BURST_COLOR_DESCRIPTION: Sprenge alle Murmeln der gleichen Farbe
+  LABEL_REFILL_POTION_TITLE: Nachfüllen lebt
+  LABEL_REFILL_POTION_DESCRIPTION: Weiter spielen
+  LABEL_SUPER_PACK_TITLE: Superpack
+  LABEL_SUPER_PACK_DESCRIPTION: 3 Leben Boni + 6x Farbe Burster + 6x Murmeln Kettenstopper + 6x Bomben
+  LABEL_6_QUANTITY: "6"
+  LABEL_7_QUANTITY: "7"
+  LABEL_8_QUANTITY: "8"
+  LABEL_THANK_YOU: Danke für Ihre Unterstützung !
+  LABEL_BUY: Kaufen
+  BUTTON_FOLLOW_US_ON_TWITTER: Folge uns auf Twitter
+  LABEL_PLAY_MORE: Oh nein, du musst heilen!
+  BUTTON_REFILL: Benutze einen Trank
+  LABEL_NO_GENERIC_COLOR_TO_BURST: Kein normaler Ball verfügbar
+  LABEL_MUSIC: Musik
+  LABEL_SOUNDDESIGN: Audiogestaltung
+  LABEL_GAMEBY: Ein Spiel von
+  LABEL_TAP_TO_SHOOT: Tippe, um zu schießen
+  LABEL_WELCOME_SNEAKIN: Willkommen bei Sneak In
+  LABEL_YOUGETIT: Gut gemacht !
+  LABEL_COMBINATION: Machen Sie eine explosive Kettenreaktion
+  LABEL_READY_TO_GO: Du bist bereit für dein erstes Level
+  LABEL_SPECIALTHANKS: Besonderen Dank
+  LABEL_AWESOME: G-E-N-I-A-L
+  LABEL_BOMB_TUTORIEL: Tippe auf das Bombensymbol und stelle es ein
+  LABEL_TAP_TO_PLACE: Tippe, um die Bombe zu setzen
+  LABEL_LETSGO: Du bist bereit zu gehen
+  LABEL_OTHERBONUSES: ... Es gibt mehr Boni zu versuchen
+  BUTTON_LAUNCH: Anfang
+  BUTTON_FACEBOOK: Facebook
+  LABEL_INVITE_MESSAGE: Versuchen Sie SneakIn, es ist riesig.
+  LABEL_INVITE_ACTION: Installiere SneakIn!
+  BUTTON_DISCONNECT_FACEBOOK: Trennen Sie Facebook
+  BUTTON_INVITE: Lade deine Freunde ein
+  LABEL_FACEBOOK_SHARE: >
+    Kommen Sie, schlagen Sie %s, Level %s
+  LABEL_INFINITE_SHARE: >
+    Komm schlag es %s
+  BUTTON_SHARE: Aktie
+  FACEBOOK_SHARE: Facebook
+  LABEL_LIKEIT: Schleich dich rein?
+  BUTTON_RATEIT: Bewerte es
+  LABEL_ASK_RATE: Wenn es Ihnen Spaß macht, Sneak In zu spielen, würde es Ihnen etwas ausmachen, es zu bewerten? Es dauert nicht mehr als eine Minute. Vielen Dank für Ihre Unterstützung!
+  LABEL_COPIED: Kopiert
+  LABEL_CONNECT_GOOGLE_PLAY: Verbinden Sie sich mit Google Play Game
+  LABEL_SHARE_MESSAGE: Schleichen - Teilen
+  BUTTON_ACHIEVEMENTS: Erfolge anzeigen
+  BUTTON_DISCONNECT_GOOGLE: Trennen Sie sich von Google Play Game
+  BUTTON_CONNECT_GOOGLE: Verbinde dich mit Google Play Game
+  LABEL_CONNECT_SUPPORT: Verbindung zum Support herstellen
+  LABEL_INFINITE_MODE: Unendlicher Modus
+  LABEL_BEGIN_INFINITE: Lass uns ein neues Abenteuer erleben!
+  LABEL_WANT_MORE: Mehr wollen ?
+  LABEL_CANNOT_LOAD_LEADERBOARD: Sie müssen mit Google Play Game verbunden sein, um die Rangliste anzuzeigen
+  LABEL_RANK: Rang
+  LABEL_BEST_SCORE: Bestes Ergebnis
+  LABEL_1: te
+  LABEL_2: te
+  LABEL_3: te
+  LABEL_4: te
+  LABEL_EMPTY_LEADERBOARD: Sei der Erste, der punkten kann
+  LABEL_NEED_INTERNET_CONNECTION: Brauche eine Internetverbindung
+  LABEL_COMPLETED: Ziele abgeschlossen
+  LABEL_UNRANKED: Spielen Sie ein Spiel, um bewertet zu werden
+  BUTTON_PLAY_INFINITE: Abspielen !
+  LABEL_ENGLISH: English
+  LABEL_FRENCH: Français
+  LABEL_GERMAN: Deutsch
+  LABEL_PORTUGESE: Português
+  LABEL_RUSSIAN: Pусский
+  LABEL_SIMPLIFIED_CHINESE: 简体中文
+  LABEL_SPANISH: Español
+  LABEL_ITALIAN: Italiano
+  LABEL_RESTART_GAME: Bitte starte SneakIn neu
+  BUTTON_PRIVACY: datenschutz-bestimmungen
+  LABEL_PRIVACY: Ich akzeptiere die 
+  LABEL_HEART_TITLE: Fertig zu spielen
+  LABEL_HEART_MESSAGE: Du hast dein ganzes Leben gerettet
+  LABEL_TIP_00: Murmeln der gleichen Farbe ziehen sich an.
+  LABEL_TIP_01: Du musst zweimal einen quadratischen Marmor schießen, um ihn wieder zu runden.
+  LABEL_TIP_02: Größere Combos verdienen eine höhere Punktzahl.
+  LABEL_TIP_03: Schließe die Ziele ab, um Murmeln vom Laichen abzuhalten.
+  LABEL_TIP_04: Ein neuer endloser Modus jede Woche.
+  LABEL_TIP_05: Es ist unmöglich, Seth das Reptil zu erschießen.
+  LABEL_TIP_06: Verdiene dir jedes Mal einen Bonus, wenn du eine Welt vervollständigst.
+  LABEL_TIP_07: 7 magische Murmeln zu entdecken.

@@ -1,0 +1,121 @@
+en:
+  BUTTON_START: GO
+  BUTTON_LEAVE: Back
+  BUTTON_EXIT: Quit
+  LABEL_LOSE: Aw, you'll do better next time
+  BUTTON_RETRY: RETRY
+  LABEL_WIN: You're AWESOME !
+  BUTTON_CONTINUE: CONTINUE
+  LABEL_SCORE: Score
+  LABEL_START_LEVEL: Let's begin !
+  LABEL_START_INFINITE: Ready to take the challenge ?
+  LABEL_LEVEL: Level
+  BUTTON_CANCEL: Cancel
+  LABEL_CONGRATULATIONS: Congratulations !
+  LABEL_EXIT: Ready to leave ?
+  LABEL_EXIT_MESSAGE: Do you want to leave ?
+  BUTTON_MAP: Go to the map
+  BUTTON_KEEP_PLAYING: Keep playing
+  LABEL_CONFIRM: Whats next ?
+  LABEL_LOSE_LIFE: Do you really want to lose a life ?
+  LABEL_MUSIC_VOLUME: Music
+  LABEL_FX_VOLUME: FX Sound
+  LABEL_BATTERY_SAVER: Battery saver
+  BUTTON_CONNECT_FACEBOOK: Connect to Facebook
+  LABEL_ONEUP_LIFE_TITLE: One up
+  LABEL_ONEUP_LIFE_DESCRIPTION: Spend more time playing
+  LABEL_INFINITY_LIFE_TITLE: Infinity life 1h
+  LABEL_INFINITY_LIFE_DESCRIPTION: Be free to play !
+  LABEL_PACK_LIFES_TITLE: Life pack
+  LABEL_PACK_LIFES_DESCRIPTION: Gimme moar !
+  LABEL_PAUSE_SNAKE_TITLE: Marbles chain stopper
+  LABEL_PAUSE_SNAKE_DESCRIPTION: Stop the marbles chain for 5 seconds
+  LABEL_BOMB_TITLE: Bomb
+  LABEL_BOMB_DESCRIPTION: Throws a bomb that explodes marbles
+  LABEL_BURST_COLOR_TITLE: Burst a marble color
+  LABEL_BURST_COLOR_DESCRIPTION: Burst all the marbles of the same color
+  LABEL_REFILL_POTION_TITLE: Refill lives
+  LABEL_REFILL_POTION_DESCRIPTION: Keep playing
+  LABEL_SUPER_PACK_TITLE: Super pack
+  LABEL_SUPER_PACK_DESCRIPTION: 3 lives bonuses + 6x color burster + 6x marbles chain stopper + 6x bombs
+  LABEL_6_QUANTITY: 6th
+  LABEL_7_QUANTITY: 7th
+  LABEL_8_QUANTITY: 8th
+  LABEL_THANK_YOU: Thank you for your support !
+  LABEL_BUY: Buy
+  BUTTON_FOLLOW_US_ON_TWITTER: Follow us on twitter
+  LABEL_PLAY_MORE: Oh no, you need to heal !
+  BUTTON_REFILL: Use potion
+  LABEL_NO_GENERIC_COLOR_TO_BURST: No normal ball available
+  LABEL_MUSIC: Music
+  LABEL_SOUNDDESIGN: Sound Design
+  LABEL_GAMEBY: A game by
+  LABEL_TAP_TO_SHOOT: Tap to shoot
+  LABEL_WELCOME_SNEAKIN: Welcome to Sneak In
+  LABEL_YOUGETIT: Well done !
+  LABEL_COMBINATION: Make an explosive chain reaction
+  LABEL_READY_TO_GO: You are ready for your first level
+  LABEL_SPECIALTHANKS: Special thanks
+  LABEL_AWESOME: A-W-E-S-O-M-E
+  LABEL_BOMB_TUTORIEL: Tap the bomb icon then set it
+  LABEL_TAP_TO_PLACE: Tap to set the bomb
+  LABEL_LETSGO: You are ready to go
+  LABEL_OTHERBONUSES: ... there are more bonuses to try
+  BUTTON_LAUNCH: Start
+  BUTTON_FACEBOOK: Facebook
+  LABEL_INVITE_MESSAGE: Try SneakIn, its huge.
+  LABEL_INVITE_ACTION: Install SneakIn!
+  BUTTON_DISCONNECT_FACEBOOK: Disconnect Facebook
+  BUTTON_INVITE: Invite your friends
+  LABEL_FACEBOOK_SHARE: >
+    Come beat it %s, level %s
+  LABEL_INFINITE_SHARE: >
+    Come beat it %s
+  BUTTON_SHARE: Share
+  FACEBOOK_SHARE: Facebook
+  LABEL_LIKEIT: Do like Sneak In ?
+  BUTTON_RATEIT: Rate it
+  LABEL_ASK_RATE: If you enjoy playing Sneak In, would you mind taking a moment to rate it ? It won't take more than a minute.Thank you for your support!
+  LABEL_COPIED: Copied
+  LABEL_CONNECT_GOOGLE_PLAY: Connect to Google Play Game
+  LABEL_SHARE_MESSAGE: Sneak In - Share
+  BUTTON_ACHIEVEMENTS: Show achievements
+  BUTTON_DISCONNECT_GOOGLE: Disconnect from Google Play Game
+  BUTTON_CONNECT_GOOGLE: Connect to Google Play Game
+  LABEL_CONNECT_SUPPORT: Connect to support
+  LABEL_INFINITE_MODE: Infinite mode
+  LABEL_BEGIN_INFINITE: Let's go for a new adventure !
+  LABEL_WANT_MORE: Want more ?
+  LABEL_CANNOT_LOAD_LEADERBOARD: You need to be connected to Google Play Game to show the leaderboard
+  LABEL_RANK: Rank
+  LABEL_BEST_SCORE: Best score
+  LABEL_1: st
+  LABEL_2: nd
+  LABEL_3: rd
+  LABEL_4: th
+  LABEL_EMPTY_LEADERBOARD: Be the first to score
+  LABEL_NEED_INTERNET_CONNECTION: Need an Internet connection
+  LABEL_COMPLETED: Objectives complete
+  LABEL_UNRANKED: Play a game to be ranked
+  BUTTON_PLAY_INFINITE: Play !
+  LABEL_ENGLISH: English
+  LABEL_FRENCH: Français
+  LABEL_GERMAN: Deutsch
+  LABEL_PORTUGESE: Português
+  LABEL_RUSSIAN: Pусский
+  LABEL_SIMPLIFIED_CHINESE: 简体中文
+  LABEL_SPANISH: Español
+  LABEL_ITALIAN: Italiano
+  LABEL_RESTART_GAME: Please restart SneakIn
+  BUTTON_PRIVACY: privacy policy
+  LABEL_PRIVACY: I agree to 
+  LABEL_HEART_TITLE: Ready to play
+  LABEL_HEART_MESSAGE: You've recovered all your lives
+  LABEL_TIP_00: Marbles of the same color attract each other
+  LABEL_TIP_01: You have to shoot a square marble twice to make it round again
+  LABEL_TIP_02: Bigger combos, earn a higher score
+  LABEL_TIP_03: Complete the objectives to stop marbles from spawning
+  LABEL_TIP_04: A new endless mode every week
+  LABEL_TIP_05: It is impossible to shoot Seth the reptile
+  LABEL_TIP_06: Earn a bonus every time you complete a world
+  LABEL_TIP_07: 7 magic marbles to discover

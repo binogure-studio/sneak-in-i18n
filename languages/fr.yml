@@ -1,0 +1,121 @@
+fr:
+  BUTTON_START: OK
+  BUTTON_LEAVE: Précédent
+  BUTTON_EXIT: Quitter
+  LABEL_LOSE: Aw, vous ferez mieux la prochaine fois
+  BUTTON_RETRY: RECOMMENCER
+  LABEL_WIN: Vous êtes incroyable !
+  BUTTON_CONTINUE: CONTINUER
+  LABEL_SCORE: Score
+  LABEL_START_LEVEL: Commençons !
+  LABEL_START_INFINITE: Prêt a relever le défi ?
+  LABEL_LEVEL: Niveau
+  BUTTON_CANCEL: Annuler
+  LABEL_CONGRATULATIONS: Félicitations !
+  LABEL_EXIT: Vous voulez nous quitter ?
+  LABEL_EXIT_MESSAGE: Voulez-vous vraiment quitter le jeu ?
+  BUTTON_MAP: Aller vers la carte
+  BUTTON_KEEP_PLAYING: Continuer a jouer
+  LABEL_CONFIRM: Que faire ?
+  LABEL_LOSE_LIFE: Voulez-vous vraiment perdre une vie ?
+  LABEL_MUSIC_VOLUME: Musique
+  LABEL_FX_VOLUME: Effets sonores
+  LABEL_BATTERY_SAVER: Économie de batterie
+  BUTTON_CONNECT_FACEBOOK: Se connecter a Facebook
+  LABEL_ONEUP_LIFE_TITLE: Vie supplémentaire
+  LABEL_ONEUP_LIFE_DESCRIPTION: Prolongez le fun avec une vie de plus
+  LABEL_INFINITY_LIFE_TITLE: Vie infini 1h
+  LABEL_INFINITY_LIFE_DESCRIPTION: Jouez sans craindre les conséquences
+  LABEL_PACK_LIFES_TITLE: Pack de vies
+  LABEL_PACK_LIFES_DESCRIPTION: Un max de vie pour un max de fun
+  LABEL_PAUSE_SNAKE_TITLE: Arrête les billes
+  LABEL_PAUSE_SNAKE_DESCRIPTION: Bonus permettant d'arrêter la progression du serpent pendant quelques secondes.
+  LABEL_BOMB_TITLE: Bombes
+  LABEL_BOMB_DESCRIPTION: Vous permet de lancer une bombe qui explose au contact
+  LABEL_BURST_COLOR_TITLE: Éclater une couleur
+  LABEL_BURST_COLOR_DESCRIPTION: Éclate toutes les billes d'une même couleur
+  LABEL_REFILL_POTION_TITLE: Recharge de vies
+  LABEL_REFILL_POTION_DESCRIPTION: Continuez à jouer
+  LABEL_SUPER_PACK_TITLE: Super pack
+  LABEL_SUPER_PACK_DESCRIPTION: Pack de 3 vies + Brûleur les couleurs x6 + Bombes x6 + Pause x6
+  LABEL_6_QUANTITY: 6eme
+  LABEL_7_QUANTITY: 7eme
+  LABEL_8_QUANTITY: 8eme
+  LABEL_THANK_YOU: Merci pour votre soutien !
+  LABEL_BUY: Achat
+  BUTTON_FOLLOW_US_ON_TWITTER: Suivez-nous sur Twitter
+  LABEL_PLAY_MORE: Oh non, il ne vous reste aucune vie
+  BUTTON_REFILL: Boire une potion
+  LABEL_NO_GENERIC_COLOR_TO_BURST: Aucune balle normale disponible
+  LABEL_MUSIC: Musique
+  LABEL_SOUNDDESIGN: Création sonore
+  LABEL_GAMEBY: Fait par
+  LABEL_TAP_TO_SHOOT: Toucher pour viser
+  LABEL_WELCOME_SNEAKIN: Bienvenue dans Sneak In
+  LABEL_YOUGETIT: Bien joué !
+  LABEL_COMBINATION: Faites des explosions en chaines
+  LABEL_READY_TO_GO: Vous pouvez aller vers votre premier niveau
+  LABEL_SPECIALTHANKS: Remerciements spéciaux
+  LABEL_AWESOME: I-N-C-R-O-Y-A-B-L-E
+  LABEL_BOMB_TUTORIEL: Appuyer sur la bombe puis placez-la
+  LABEL_TAP_TO_PLACE: Appuyer pour placer la bombe
+  LABEL_LETSGO: C'est parti pour la suite
+  LABEL_OTHERBONUSES: ... il existe aussi d'autres bonus a essayer
+  BUTTON_LAUNCH: Commencer
+  BUTTON_FACEBOOK: Facebook
+  LABEL_INVITE_MESSAGE: Essaie SneakIn, il est excellent.
+  LABEL_INVITE_ACTION: Installe SneakIn!
+  BUTTON_DISCONNECT_FACEBOOK: Se déconnecter de Facebook
+  BUTTON_INVITE: Invite tes amis
+  LABEL_FACEBOOK_SHARE: >
+    Viens battre mon score %s au niveau %s
+  LABEL_INFINITE_SHARE: >
+    Viens battre mon score %s
+  BUTTON_SHARE: Partager
+  FACEBOOK_SHARE: Facebook
+  LABEL_LIKEIT: Aimez-vous Sneak In ?
+  BUTTON_RATEIT: Noter le jeu
+  LABEL_ASK_RATE: Si vous aimez jouer a Sneak In, pourriez-vous le noter ? Ça ne prendra pas plus qu'une minute. Merci pour votre soutien !
+  LABEL_COPIED: Copié
+  LABEL_CONNECT_GOOGLE_PLAY: Connectez-vous a Google Play Game
+  LABEL_SHARE_MESSAGE: Sneak In - Partager
+  BUTTON_ACHIEVEMENTS: Voir les succès
+  BUTTON_DISCONNECT_GOOGLE: Se déconnecter de Google Play Game
+  BUTTON_CONNECT_GOOGLE: Se connecter à Google Play Game
+  LABEL_CONNECT_SUPPORT: Se connecter au support
+  LABEL_INFINITE_MODE: Mode infini
+  LABEL_BEGIN_INFINITE: C'est parti pour l'aventure !
+  LABEL_WANT_MORE: Vous en voulez encore ?
+  LABEL_CANNOT_LOAD_LEADERBOARD: Vous devez être connecté avec Google Play Game pour afficher le classement
+  LABEL_RANK: Position
+  LABEL_BEST_SCORE: Meilleur score
+  LABEL_1: er
+  LABEL_2: eme
+  LABEL_3: eme
+  LABEL_4: eme
+  LABEL_EMPTY_LEADERBOARD: Soyez le premier à envoyer votre score
+  LABEL_NEED_INTERNET_CONNECTION: Veuillez vous connecter à Internet
+  LABEL_COMPLETED: Objectifs remplis
+  LABEL_UNRANKED: Joue une partie pour enregistrer ton score
+  BUTTON_PLAY_INFINITE: Jouer !
+  LABEL_ENGLISH: English
+  LABEL_FRENCH: Français
+  LABEL_GERMAN: Deutsch
+  LABEL_PORTUGESE: Português
+  LABEL_RUSSIAN: Pусский
+  LABEL_SIMPLIFIED_CHINESE: 简体中文
+  LABEL_SPANISH: Español
+  LABEL_ITALIAN: Italiano
+  LABEL_RESTART_GAME: Veuillez redémarrer SneakIn
+  BUTTON_PRIVACY: politique de confidentialité
+  LABEL_PRIVACY: J'accepte la 
+  LABEL_HEART_TITLE: Prêt à jouer!
+  LABEL_HEART_MESSAGE: Toutes vos vies sont revenues!
+  LABEL_TIP_00: Les billes de la même couleur s'attirent
+  LABEL_TIP_01: Il faut tirer deux fois sur une bille carré pour qu'elle redevienne ronde
+  LABEL_TIP_02: Faire des combos multiplie le score
+  LABEL_TIP_03: Les billes arrêtent d'apparaitre lorsque vous avez complété tous les objectifs
+  LABEL_TIP_04: La carte du monde infini se renouvelle tous les dimanches
+  LABEL_TIP_05: Il est impossible de tirer sur Seth le reptile
+  LABEL_TIP_06: Un cadeau est offert à chaque fois que vous terminez un monde
+  LABEL_TIP_07: Il y a 7 billes spéciales à découvrir

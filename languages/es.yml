@@ -1,0 +1,121 @@
+es:
+  BUTTON_START: VAMONOS
+  BUTTON_LEAVE: Espalda
+  BUTTON_EXIT: Dejar
+  LABEL_LOSE: Aw, harás mejor la próxima vez
+  BUTTON_RETRY: REVER
+  LABEL_WIN: Eres increíble !
+  BUTTON_CONTINUE: CONTINUAR
+  LABEL_SCORE: Puntuación
+  LABEL_START_LEVEL: Vamos a empezar !
+  LABEL_START_INFINITE: ¿Listo para tomar el desafío?
+  LABEL_LEVEL: Nivel
+  BUTTON_CANCEL: Cancelar
+  LABEL_CONGRATULATIONS: Felicitaciones !
+  LABEL_EXIT: Listo para salir ?
+  LABEL_EXIT_MESSAGE: Quieres irte ?
+  BUTTON_MAP: Ir al mapa
+  BUTTON_KEEP_PLAYING: Sigue jugando
+  LABEL_CONFIRM: Que sigue ?
+  LABEL_LOSE_LIFE: ¿De verdad quieres perder una vida?
+  LABEL_MUSIC_VOLUME: Música
+  LABEL_FX_VOLUME: Efecto de sonido
+  LABEL_BATTERY_SAVER: Ahorro de batería
+  BUTTON_CONNECT_FACEBOOK: Conéctate a Facebook
+  LABEL_ONEUP_LIFE_TITLE: Uno arriba
+  LABEL_ONEUP_LIFE_DESCRIPTION: Pasa más tiempo jugando
+  LABEL_INFINITY_LIFE_TITLE: Vida infinita 1 hora
+  LABEL_INFINITY_LIFE_DESCRIPTION: ¡Sé libre para jugar!
+  LABEL_PACK_LIFES_TITLE: Paquete de vida
+  LABEL_PACK_LIFES_DESCRIPTION: ¡Dame un grito!
+  LABEL_PAUSE_SNAKE_TITLE: Tapón de cadena de mármol
+  LABEL_PAUSE_SNAKE_DESCRIPTION: Detener la cadena de mármoles por 5 segundos
+  LABEL_BOMB_TITLE: Bomba
+  LABEL_BOMB_DESCRIPTION: Lanza una bomba que explota mármoles
+  LABEL_BURST_COLOR_TITLE: Estallar un color de mármol
+  LABEL_BURST_COLOR_DESCRIPTION: Rompa todos los mármoles del mismo color
+  LABEL_REFILL_POTION_TITLE: Rellenar vidas
+  LABEL_REFILL_POTION_DESCRIPTION: Sigue jugando
+  LABEL_SUPER_PACK_TITLE: Súper paquete
+  LABEL_SUPER_PACK_DESCRIPTION: 3 bonus de vidas + 6x burster de color + 6x canicas stopper de cadena + 6x bombas
+  LABEL_6_QUANTITY: 6º
+  LABEL_7_QUANTITY: 7º
+  LABEL_8_QUANTITY: 8º
+  LABEL_THANK_YOU: Gracias por tu apoyo !
+  LABEL_BUY: Comprar
+  BUTTON_FOLLOW_US_ON_TWITTER: Síganos en Twitter
+  LABEL_PLAY_MORE: Oh no, ¡necesitas sanar!
+  BUTTON_REFILL: Usa la poción
+  LABEL_NO_GENERIC_COLOR_TO_BURST: No hay pelota normal disponible
+  LABEL_MUSIC: Música
+  LABEL_SOUNDDESIGN: Diseño de sonido
+  LABEL_GAMEBY: Un juego de
+  LABEL_TAP_TO_SHOOT: Toca para disparar
+  LABEL_WELCOME_SNEAKIN: Bienvenido a Sneak In
+  LABEL_YOUGETIT: Bien hecho !
+  LABEL_COMBINATION: Haz una reacción explosiva en cadena
+  LABEL_READY_TO_GO: Estás listo para tu primer nivel
+  LABEL_SPECIALTHANKS: Gracias especiales
+  LABEL_AWESOME: I-N-C-R-E-Í-B-L-E
+  LABEL_BOMB_TUTORIEL: Toca el icono de la bomba y luego configúralo
+  LABEL_TAP_TO_PLACE: Toca para configurar la bomba
+  LABEL_LETSGO: Estás listo para ir
+  LABEL_OTHERBONUSES: ... hay más bonos para probar
+  BUTTON_LAUNCH: Comienzo
+  BUTTON_FACEBOOK: Facebook
+  LABEL_INVITE_MESSAGE: Prueba SneakIn, es enorme.
+  LABEL_INVITE_ACTION: ¡Instala SneakIn!
+  BUTTON_DISCONNECT_FACEBOOK: Desconectar Facebook
+  BUTTON_INVITE: Invita a tus amigos
+  LABEL_FACEBOOK_SHARE: >
+    Venga a vencerlo %s, nivel %s
+  LABEL_INFINITE_SHARE: >
+    Ven a vencerlo %s
+  BUTTON_SHARE: Compartir
+  FACEBOOK_SHARE: Facebook
+  LABEL_LIKEIT: ¿Te gusta Sneak In?
+  BUTTON_RATEIT: Puntúalo
+  LABEL_ASK_RATE: Si te gusta jugar Sneak In, ¿te importaría tomar un momento para calificarlo? No tomará más de un minuto. ¡Gracias por su apoyo!
+  LABEL_COPIED: Copiado
+  LABEL_CONNECT_GOOGLE_PLAY: Conéctese a Google Play Game
+  LABEL_SHARE_MESSAGE: Sneak In - Compartir
+  BUTTON_ACHIEVEMENTS: Mostrar logros
+  BUTTON_DISCONNECT_GOOGLE: Desconectar de Google Play Game
+  BUTTON_CONNECT_GOOGLE: Conéctese con Google Play Game
+  LABEL_CONNECT_SUPPORT: Conectarse a soporte
+  LABEL_INFINITE_MODE: Modo infinito
+  LABEL_BEGIN_INFINITE: ¡Vamos por una nueva aventura!
+  LABEL_WANT_MORE: Quieren más ?
+  LABEL_CANNOT_LOAD_LEADERBOARD: Debes estar conectado a Google Play Game para mostrar la tabla de clasificación
+  LABEL_RANK: Rango
+  LABEL_BEST_SCORE: Mejor puntuación
+  LABEL_1: " "
+  LABEL_2: " "
+  LABEL_3: " "
+  LABEL_4: " "
+  LABEL_EMPTY_LEADERBOARD: Sé el primero en anotar
+  LABEL_NEED_INTERNET_CONNECTION: Necesita una conexión a Internet
+  LABEL_COMPLETED: Objetivos completados
+  LABEL_UNRANKED: Juega un juego para ser clasificado
+  BUTTON_PLAY_INFINITE: Jugar !
+  LABEL_ENGLISH: English
+  LABEL_FRENCH: Français
+  LABEL_GERMAN: Deutsch
+  LABEL_PORTUGESE: Português
+  LABEL_RUSSIAN: Pусский
+  LABEL_SIMPLIFIED_CHINESE: 简体中文
+  LABEL_SPANISH: Español
+  LABEL_ITALIAN: Italiano
+  LABEL_RESTART_GAME: Por favor, reinicie SneakIn
+  BUTTON_PRIVACY: política de privacidad
+  LABEL_PRIVACY: Acepto el 
+  LABEL_HEART_TITLE: Listo para jugar
+  LABEL_HEART_MESSAGE: Has recuperado todas tus vidas
+  LABEL_TIP_00: Los mármoles del mismo color se atraen.
+  LABEL_TIP_01: Tienes que disparar una canica cuadrada dos veces para que vuelva a ser redonda.
+  LABEL_TIP_02: Combos más grandes ganan una puntuación más alta.
+  LABEL_TIP_03: Completa los objetivos para evitar que los mármoles se reproduzcan.
+  LABEL_TIP_04: Un nuevo modo sin fin cada semana.
+  LABEL_TIP_05: Es imposible dispararle a Seth el reptil.
+  LABEL_TIP_06: Gana un bono cada vez que completes un mundo.
+  LABEL_TIP_07: 7 mármoles mágicos por descubrir
