@@ -8,14 +8,14 @@ fr:
   BUTTON_CONTINUE: CONTINUER
   LABEL_SCORE: Score
   LABEL_START_LEVEL: Commençons !
-  LABEL_START_INFINITE: Prêt a relever le défi ?
+  LABEL_START_INFINITE: Prêt à relever le défi ?
   LABEL_LEVEL: Niveau
   BUTTON_CANCEL: Annuler
   LABEL_CONGRATULATIONS: Félicitations !
   LABEL_EXIT: Vous voulez nous quitter ?
   LABEL_EXIT_MESSAGE: Voulez-vous vraiment quitter le jeu ?
   BUTTON_MAP: Aller vers la carte
-  BUTTON_KEEP_PLAYING: Continuer a jouer
+  BUTTON_KEEP_PLAYING: Continuer à jouer
   LABEL_CONFIRM: Que faire ?
   LABEL_LOSE_LIFE: Voulez-vous vraiment perdre une vie ?
   LABEL_MUSIC_VOLUME: Musique
@@ -53,14 +53,14 @@ fr:
   LABEL_TAP_TO_SHOOT: Toucher pour viser
   LABEL_WELCOME_SNEAKIN: Bienvenue dans Sneak In
   LABEL_YOUGETIT: Bien joué !
-  LABEL_COMBINATION: Faites des explosions en chaines
+  LABEL_COMBINATION: Faites des explosions en chaînes
   LABEL_READY_TO_GO: Vous pouvez aller vers votre premier niveau
   LABEL_SPECIALTHANKS: Remerciements spéciaux
   LABEL_AWESOME: I-N-C-R-O-Y-A-B-L-E
   LABEL_BOMB_TUTORIEL: Appuyer sur la bombe puis placez-la
   LABEL_TAP_TO_PLACE: Appuyer pour placer la bombe
   LABEL_LETSGO: C'est parti pour la suite
-  LABEL_OTHERBONUSES: ... il existe aussi d'autres bonus a essayer
+  LABEL_OTHERBONUSES: ... il existe aussi d'autres bonus à essayer
   BUTTON_LAUNCH: Commencer
   BUTTON_FACEBOOK: Facebook
   LABEL_INVITE_MESSAGE: Essaie SneakIn, il est excellent.
