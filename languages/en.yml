@@ -1,27 +1,56 @@
 en:
-  BUTTON_START: GO
+  BUTTON_OPTIONS: Options
+  BUTTON_CREDITS: Credits
+  BUTTON_START: Go
   BUTTON_LEAVE: Back
   BUTTON_EXIT: Quit
+  BUTTON_RETRY: Retry
+  BUTTON_CONTINUE: Continue
+  BUTTON_CANCEL: Cancel
+  BUTTON_MAP: Go to the map
+  BUTTON_KEEP_PLAYING: Keep playing
+  BUTTON_CONNECT_FACEBOOK: Connect to Facebook
+  BUTTON_FOLLOW_US_ON_TWITTER: Follow us on twitter
+  BUTTON_REFILL: Use potion
+  BUTTON_LAUNCH: Start
+  BUTTON_FACEBOOK: Facebook
+  BUTTON_DISCONNECT_FACEBOOK: Disconnect Facebook
+  BUTTON_INVITE: Invite your friends
+  BUTTON_SHARE: Share
+  BUTTON_RATEIT: Rate it
+  BUTTON_ACHIEVEMENTS: Show achievements
+  BUTTON_DISCONNECT_GOOGLE: Disconnect from Google Play Game
+  BUTTON_CONNECT_GOOGLE: Connect to Google Play Game
+  BUTTON_PLAY_INFINITE: Play !
+  BUTTON_PRIVACY: privacy policy
+  BUTTON_LOAD: Load savegame
+  BUTTON_APPLY: Apply
+
+  LABEL_TOOLS: Made with
+  LABEL_DISCORD_COMMUNITY: Discord community
+  LABEL_VERSION: "Version: %s"
+  LABEL_ANISOTROPIC_FILTER: Anisotropic filter
+  LABEL_RESOLUTION: Resolution
+  LABEL_FULLSCREEN: Fullscreen
+  LABEL_VSYNC: VSync
+  LABEL_CREATOR: Created by
+  LABEL_PRODUCER: Producer
+  LABEL_COMMUNITY_MANAGER: Community manager
+  LABEL_SPECIAL_THANKS: Special thanks
   LABEL_LOSE: Aw, you'll do better next time
-  BUTTON_RETRY: RETRY
   LABEL_WIN: You're AWESOME !
-  BUTTON_CONTINUE: CONTINUE
   LABEL_SCORE: Score
   LABEL_START_LEVEL: Let's begin !
   LABEL_START_INFINITE: Ready to take the challenge ?
   LABEL_LEVEL: Level
-  BUTTON_CANCEL: Cancel
   LABEL_CONGRATULATIONS: Congratulations !
   LABEL_EXIT: Ready to leave ?
   LABEL_EXIT_MESSAGE: Do you want to leave ?
-  BUTTON_MAP: Go to the map
-  BUTTON_KEEP_PLAYING: Keep playing
   LABEL_CONFIRM: Whats next ?
-  LABEL_LOSE_LIFE: Do you really want to lose a life ?
+  LABEL_LOSE_LIFE: Do you want to return to the menu?
   LABEL_MUSIC_VOLUME: Music
   LABEL_FX_VOLUME: FX Sound
   LABEL_BATTERY_SAVER: Battery saver
-  BUTTON_CONNECT_FACEBOOK: Connect to Facebook
   LABEL_ONEUP_LIFE_TITLE: One up
   LABEL_ONEUP_LIFE_DESCRIPTION: Spend more time playing
   LABEL_INFINITY_LIFE_TITLE: Infinity life 1h
@@ -43,9 +72,7 @@ en:
   LABEL_8_QUANTITY: 8th
   LABEL_THANK_YOU: Thank you for your support !
   LABEL_BUY: Buy
-  BUTTON_FOLLOW_US_ON_TWITTER: Follow us on twitter
   LABEL_PLAY_MORE: Oh no, you need to heal !
-  BUTTON_REFILL: Use potion
   LABEL_NO_GENERIC_COLOR_TO_BURST: No normal ball available
   LABEL_MUSIC: Music
   LABEL_SOUNDDESIGN: Sound Design
@@ -61,27 +88,18 @@ en:
   LABEL_TAP_TO_PLACE: Tap to set the bomb
   LABEL_LETSGO: You are ready to go
   LABEL_OTHERBONUSES: ... there are more bonuses to try
-  BUTTON_LAUNCH: Start
-  BUTTON_FACEBOOK: Facebook
   LABEL_INVITE_MESSAGE: Try SneakIn, its huge.
   LABEL_INVITE_ACTION: Install SneakIn!
-  BUTTON_DISCONNECT_FACEBOOK: Disconnect Facebook
-  BUTTON_INVITE: Invite your friends
   LABEL_FACEBOOK_SHARE: >
     Come beat it %s, level %s
   LABEL_INFINITE_SHARE: >
     Come beat it %s
-  BUTTON_SHARE: Share
   FACEBOOK_SHARE: Facebook
   LABEL_LIKEIT: Do like Sneak In ?
-  BUTTON_RATEIT: Rate it
   LABEL_ASK_RATE: If you enjoy playing Sneak In, would you mind taking a moment to rate it ? It won't take more than a minute.Thank you for your support!
   LABEL_COPIED: Copied
   LABEL_CONNECT_GOOGLE_PLAY: Connect to Google Play Game
   LABEL_SHARE_MESSAGE: Sneak In - Share
-  BUTTON_ACHIEVEMENTS: Show achievements
-  BUTTON_DISCONNECT_GOOGLE: Disconnect from Google Play Game
-  BUTTON_CONNECT_GOOGLE: Connect to Google Play Game
   LABEL_CONNECT_SUPPORT: Connect to support
   LABEL_INFINITE_MODE: Infinite mode
   LABEL_BEGIN_INFINITE: Let's go for a new adventure !
@@ -97,7 +115,6 @@ en:
   LABEL_NEED_INTERNET_CONNECTION: Need an Internet connection
   LABEL_COMPLETED: Objectives complete
   LABEL_UNRANKED: Play a game to be ranked
-  BUTTON_PLAY_INFINITE: Play !
   LABEL_ENGLISH: English
   LABEL_FRENCH: Français
   LABEL_GERMAN: Deutsch
@@ -107,7 +124,6 @@ en:
   LABEL_SPANISH: Español
   LABEL_ITALIAN: Italiano
   LABEL_RESTART_GAME: Please restart SneakIn
-  BUTTON_PRIVACY: privacy policy
   LABEL_PRIVACY: I agree to 
   LABEL_HEART_TITLE: Ready to play
   LABEL_HEART_MESSAGE: You've recovered all your lives

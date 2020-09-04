@@ -1,27 +1,56 @@
 de:
-  BUTTON_START: GEHEN
+  BUTTON_OPTIONS: Optionen
+  BUTTON_CREDITS: Credits
+  BUTTON_START: Gehen
   BUTTON_LEAVE: Zurück
   BUTTON_EXIT: Verlassen
+  BUTTON_RETRY: Wiederholen
+  BUTTON_CONTINUE: Fortsetzen
+  BUTTON_CANCEL: Stornieren
+  BUTTON_MAP: Gehe zur Karte
+  BUTTON_KEEP_PLAYING: Weiter spielen
+  BUTTON_CONNECT_FACEBOOK: Verbinde dich mit Facebook
+  BUTTON_FOLLOW_US_ON_TWITTER: Folge uns auf Twitter
+  BUTTON_REFILL: Benutze einen Trank
+  BUTTON_LAUNCH: Anfang
+  BUTTON_FACEBOOK: Facebook
+  BUTTON_DISCONNECT_FACEBOOK: Trennen Sie Facebook
+  BUTTON_INVITE: Lade deine Freunde ein
+  BUTTON_SHARE: Aktie
+  BUTTON_RATEIT: Bewerte es
+  BUTTON_ACHIEVEMENTS: Erfolge anzeigen
+  BUTTON_DISCONNECT_GOOGLE: Trennen Sie sich von Google Play Game
+  BUTTON_CONNECT_GOOGLE: Verbinde dich mit Google Play Game
+  BUTTON_PLAY_INFINITE: Abspielen !
+  BUTTON_PRIVACY: datenschutz-bestimmungen
+  BUTTON_LOAD: Savegame laden
+  BUTTON_APPLY: Anwenden
+
+  LABEL_TOOLS: Hergestellt aus
+  LABEL_DISCORD_COMMUNITY: Discord Community
+  LABEL_VERSION: "Version: %s"
+  LABEL_ANISOTROPIC_FILTER: Anisotroper Filter
+  LABEL_RESOLUTION: Auflösung
+  LABEL_FULLSCREEN: Ganzer Bildschirm
+  LABEL_VSYNC: VSync
+  LABEL_CREATOR: Erstellt von
+  LABEL_PRODUCER: Hersteller
+  LABEL_COMMUNITY_MANAGER: Community Manager
+  LABEL_SPECIAL_THANKS: Besonderer Dank
   LABEL_LOSE: Ach, du wirst es nächstes Mal besser machen
-  BUTTON_RETRY: WIEDERHOLEN
   LABEL_WIN: Du bist unglaublich !
-  BUTTON_CONTINUE: FORTSETZEN
   LABEL_SCORE: Ergebnis
   LABEL_START_LEVEL: Lass uns anfangen !
   LABEL_START_INFINITE: Bereit für die Herausforderung?
   LABEL_LEVEL: Niveau
-  BUTTON_CANCEL: Stornieren
   LABEL_CONGRATULATIONS: Herzliche Glückwünsche !
   LABEL_EXIT: Bereit zu gehen ?
   LABEL_EXIT_MESSAGE: Möchtest du gehen ?
-  BUTTON_MAP: Gehe zur Karte
-  BUTTON_KEEP_PLAYING: Weiter spielen
   LABEL_CONFIRM: Was kommt als nächstes ?
-  LABEL_LOSE_LIFE: Willst du wirklich ein Leben verlieren?
+  LABEL_LOSE_LIFE: Möchten Sie zum Menü zurückkehren?
   LABEL_MUSIC_VOLUME: Musik
   LABEL_FX_VOLUME: Soundeffekt
   LABEL_BATTERY_SAVER: Batterieschoner
-  BUTTON_CONNECT_FACEBOOK: Verbinde dich mit Facebook
   LABEL_ONEUP_LIFE_TITLE: Eins oben
   LABEL_ONEUP_LIFE_DESCRIPTION: Verbringe mehr Zeit mit dem Spielen
   LABEL_INFINITY_LIFE_TITLE: Unendlichkeitsleben 1h
@@ -43,9 +72,7 @@ de:
   LABEL_8_QUANTITY: "8"
   LABEL_THANK_YOU: Danke für Ihre Unterstützung !
   LABEL_BUY: Kaufen
-  BUTTON_FOLLOW_US_ON_TWITTER: Folge uns auf Twitter
   LABEL_PLAY_MORE: Oh nein, du musst heilen!
-  BUTTON_REFILL: Benutze einen Trank
   LABEL_NO_GENERIC_COLOR_TO_BURST: Kein normaler Ball verfügbar
   LABEL_MUSIC: Musik
   LABEL_SOUNDDESIGN: Audiogestaltung
@@ -61,27 +88,18 @@ de:
   LABEL_TAP_TO_PLACE: Tippe, um die Bombe zu setzen
   LABEL_LETSGO: Du bist bereit zu gehen
   LABEL_OTHERBONUSES: ... Es gibt mehr Boni zu versuchen
-  BUTTON_LAUNCH: Anfang
-  BUTTON_FACEBOOK: Facebook
   LABEL_INVITE_MESSAGE: Versuchen Sie SneakIn, es ist riesig.
   LABEL_INVITE_ACTION: Installiere SneakIn!
-  BUTTON_DISCONNECT_FACEBOOK: Trennen Sie Facebook
-  BUTTON_INVITE: Lade deine Freunde ein
   LABEL_FACEBOOK_SHARE: >
     Kommen Sie, schlagen Sie %s, Level %s
   LABEL_INFINITE_SHARE: >
     Komm schlag es %s
-  BUTTON_SHARE: Aktie
   FACEBOOK_SHARE: Facebook
   LABEL_LIKEIT: Schleich dich rein?
-  BUTTON_RATEIT: Bewerte es
   LABEL_ASK_RATE: Wenn es Ihnen Spaß macht, Sneak In zu spielen, würde es Ihnen etwas ausmachen, es zu bewerten? Es dauert nicht mehr als eine Minute. Vielen Dank für Ihre Unterstützung!
   LABEL_COPIED: Kopiert
   LABEL_CONNECT_GOOGLE_PLAY: Verbinden Sie sich mit Google Play Game
   LABEL_SHARE_MESSAGE: Schleichen - Teilen
-  BUTTON_ACHIEVEMENTS: Erfolge anzeigen
-  BUTTON_DISCONNECT_GOOGLE: Trennen Sie sich von Google Play Game
-  BUTTON_CONNECT_GOOGLE: Verbinde dich mit Google Play Game
   LABEL_CONNECT_SUPPORT: Verbindung zum Support herstellen
   LABEL_INFINITE_MODE: Unendlicher Modus
   LABEL_BEGIN_INFINITE: Lass uns ein neues Abenteuer erleben!
@@ -97,7 +115,6 @@ de:
   LABEL_NEED_INTERNET_CONNECTION: Brauche eine Internetverbindung
   LABEL_COMPLETED: Ziele abgeschlossen
   LABEL_UNRANKED: Spielen Sie ein Spiel, um bewertet zu werden
-  BUTTON_PLAY_INFINITE: Abspielen !
   LABEL_ENGLISH: English
   LABEL_FRENCH: Français
   LABEL_GERMAN: Deutsch
@@ -107,7 +124,6 @@ de:
   LABEL_SPANISH: Español
   LABEL_ITALIAN: Italiano
   LABEL_RESTART_GAME: Bitte starte SneakIn neu
-  BUTTON_PRIVACY: datenschutz-bestimmungen
   LABEL_PRIVACY: Ich akzeptiere die 
   LABEL_HEART_TITLE: Fertig zu spielen
   LABEL_HEART_MESSAGE: Du hast dein ganzes Leben gerettet

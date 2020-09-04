@@ -1,27 +1,56 @@
 ru:
-  BUTTON_START: ИДТИ
+  BUTTON_OPTIONS: Параметры
+  BUTTON_CREDITS: Кредиты
+  BUTTON_START: Идти
   BUTTON_LEAVE: назад
   BUTTON_EXIT: Уволиться
+  BUTTON_RETRY: Повтор
+  BUTTON_CONTINUE: Продолжать
+  BUTTON_CANCEL: Отмена
+  BUTTON_MAP: Перейти к карте
+  BUTTON_KEEP_PLAYING: Продолжай играть
+  BUTTON_CONNECT_FACEBOOK: Подключиться к Facebook
+  BUTTON_FOLLOW_US_ON_TWITTER: Следуйте за нами на Twitter
+  BUTTON_REFILL: Использовать зелье
+  BUTTON_LAUNCH: Начало
+  BUTTON_FACEBOOK: Facebook
+  BUTTON_DISCONNECT_FACEBOOK: Отключить Facebook
+  BUTTON_INVITE: Пригласить друзей
+  BUTTON_SHARE: Поделиться
+  BUTTON_RATEIT: Оценить
+  BUTTON_ACHIEVEMENTS: Показать достижения
+  BUTTON_DISCONNECT_GOOGLE: Отключить от Google Play Game
+  BUTTON_CONNECT_GOOGLE: Подключитесь к Google Play Game
+  BUTTON_PLAY_INFINITE: Играть !
+  BUTTON_PRIVACY: политика конфиденциальности
+  BUTTON_LOAD: Загрузка сохранения
+  BUTTON_APPLY: Подать заявление
+
+  LABEL_TOOLS: Сделано с
+  LABEL_DISCORD_COMMUNITY: Cообщество Discord
+  LABEL_VERSION: "Версия: %s"
+  LABEL_ANISOTROPIC_FILTER: Анизотропный фильтр
+  LABEL_RESOLUTION: разрешение
+  LABEL_FULLSCREEN: Полноэкранный
+  LABEL_VSYNC: VSync
+  LABEL_CREATOR: Создано
+  LABEL_PRODUCER: Режиссер
+  LABEL_COMMUNITY_MANAGER: Менеджер сообщества
+  LABEL_SPECIAL_THANKS: Специальная благодарность
   LABEL_LOSE: О, ты в следующий раз сделаешь лучше
-  BUTTON_RETRY: ПОВТОР
   LABEL_WIN: Ты восхитителен !
-  BUTTON_CONTINUE: ПРОДОЛЖАТЬ
   LABEL_SCORE: Гол
   LABEL_START_LEVEL: Давай начнем !
   LABEL_START_INFINITE: Готовы принять вызов?
   LABEL_LEVEL: уровень
-  BUTTON_CANCEL: Отмена
   LABEL_CONGRATULATIONS: Поздравления !
   LABEL_EXIT: Готов уходить ?
   LABEL_EXIT_MESSAGE: Ты хочешь уйти ?
-  BUTTON_MAP: Перейти к карте
-  BUTTON_KEEP_PLAYING: Продолжай играть
   LABEL_CONFIRM: Что дальше ?
-  LABEL_LOSE_LIFE: Вы действительно хотите потерять жизнь?
+  LABEL_LOSE_LIFE: Хотите вернуться в меню?
   LABEL_MUSIC_VOLUME: Музыка
   LABEL_FX_VOLUME: Звуковой эффект
   LABEL_BATTERY_SAVER: Аккумулятор
-  BUTTON_CONNECT_FACEBOOK: Подключиться к Facebook
   LABEL_ONEUP_LIFE_TITLE: Один вверх
   LABEL_ONEUP_LIFE_DESCRIPTION: Потратьте больше времени на игру
   LABEL_INFINITY_LIFE_TITLE: Бесконечная жизнь 1 час
@@ -43,9 +72,7 @@ ru:
   LABEL_8_QUANTITY: восьмых
   LABEL_THANK_YOU: Спасибо за Вашу поддержку !
   LABEL_BUY: Купить
-  BUTTON_FOLLOW_US_ON_TWITTER: Следуйте за нами на Twitter
   LABEL_PLAY_MORE: О нет, тебе нужно лечить!
-  BUTTON_REFILL: Использовать зелье
   LABEL_NO_GENERIC_COLOR_TO_BURST: Нет нормального шара в наличии
   LABEL_MUSIC: Музыка
   LABEL_SOUNDDESIGN: Звуковой дизайн
@@ -61,27 +88,18 @@ ru:
   LABEL_TAP_TO_PLACE: Нажмите, чтобы установить бомбу
   LABEL_LETSGO: Вы готовы пойти
   LABEL_OTHERBONUSES: ... есть больше бонусов, чтобы попробовать
-  BUTTON_LAUNCH: Начало
-  BUTTON_FACEBOOK: Facebook
   LABEL_INVITE_MESSAGE: Попробуйте SneakIn, его огромный.
   LABEL_INVITE_ACTION: Установите SneakIn!
-  BUTTON_DISCONNECT_FACEBOOK: Отключить Facebook
-  BUTTON_INVITE: Пригласить друзей
   LABEL_FACEBOOK_SHARE: >
     Приходите бить %s, уровень %s
   LABEL_INFINITE_SHARE: >
     Приходите бить %s
-  BUTTON_SHARE: Поделиться
   FACEBOOK_SHARE: Facebook
   LABEL_LIKEIT: Сделайте, как Sneak In?
-  BUTTON_RATEIT: Оценить
   LABEL_ASK_RATE: Если вам нравится играть в Sneak In, не могли бы вы принять момент, чтобы оценить его? Это займет не больше минуты. Спасибо за вашу поддержку!
   LABEL_COPIED: Скопированный
   LABEL_CONNECT_GOOGLE_PLAY: Подключение к Google Play Game
   LABEL_SHARE_MESSAGE: Sneak In - Share
-  BUTTON_ACHIEVEMENTS: Показать достижения
-  BUTTON_DISCONNECT_GOOGLE: Отключить от Google Play Game
-  BUTTON_CONNECT_GOOGLE: Подключитесь к Google Play Game
   LABEL_CONNECT_SUPPORT: Подключиться к поддержке
   LABEL_INFINITE_MODE: Бесконечный режим
   LABEL_BEGIN_INFINITE: Пойдем на новое приключение!
@@ -97,7 +115,6 @@ ru:
   LABEL_NEED_INTERNET_CONNECTION: Требуется подключение к Интернету
   LABEL_COMPLETED: Цели завершены
   LABEL_UNRANKED: Играйте в игру, которая будет ранжироваться
-  BUTTON_PLAY_INFINITE: Играть !
   LABEL_ENGLISH: English
   LABEL_FRENCH: Français
   LABEL_GERMAN: Deutsch
@@ -107,7 +124,6 @@ ru:
   LABEL_SPANISH: Español
   LABEL_ITALIAN: Italiano
   LABEL_RESTART_GAME: Пожалуйста, перезапустите SneakIn
-  BUTTON_PRIVACY: политика конфиденциальности
   LABEL_PRIVACY: Я принимаю 
   LABEL_HEART_TITLE: Готов играть
   LABEL_HEART_MESSAGE: Ты оправился всю жизнь
