@@ -25,7 +25,63 @@ it:
   BUTTON_PRIVACY: politica sulla riservatezza
   BUTTON_LOAD: Carica savegame
   BUTTON_APPLY: Applicare
+  BUTTON_FEEDBACK: Feedback
+  BUTTON_RESET_SAVEGAME: Cancella il gioco di salvataggio
 
+  TOOLTIP_HOLD_TO_CLICK: Tenere premuto per fare clic
+
+  LABEL_MARBLE_BLACKHOLE: |
+    La biglia del buco nero.
+    Scompare non appena gli si spara contro.
+  LABEL_MARBLE_ROCK: |
+    La biglia sassolino.
+    Assume l'aspetto della biglia che la tocca.
+  LABEL_MARBLE_SQUARE: |
+    La biglia quadrata.
+    Quando le si spara contro una biglia, questa rimbalza, anche se la biglia quadrata si trasforma immediatamente in una biglia normale.
+  LABEL_MARBLE_FROZEN: |
+    La biglia ghiacciata.
+    Per rompere il ghiaccio, bisogna far saltare questa biglia con biglie dello stesso colore.
+    Una volta sciolta, torna a essere una biglia normale.
+  LABEL_MARBLE_GHOST: |
+    La biglia fantasma.
+    Ha un colore più chiaro delle altre biglie.
+    Se, ad esempio, una biglia fantasma ha un aspetto rosso pallido, sparatela con una biglia rossa per farla tornare una biglia normale.
+  LABEL_MARBLE_VIRUS: |
+    La biglia virus.
+    La terribile biglia. Lentamente questa biglia contamina le altre biglie che la circondano.
+    L'unico modo per liberarsene è far esplodere le altre biglie che la circondano.
+  LABEL_MARBLE_UNICOLOR: |
+    La biglia multicolore.
+    La più bella di tutte.
+    Può essere usata con qualsiasi altra biglia da far esplodere.
+  LABEL_HELP: Aiuto
+  LABEL_MARBLE_NOT_LAUNCHABLE: |
+    Questo colore di biglia non può essere sparato dal cannone, ma appare sul percorso della biglia.
+  LABEL_MARBLE_LAUNCHABLE: |
+    Questo colore di biglia può essere sparato dal cannone.
+  LABEL_ACCURACY: Precisione
+  LABEL_SHOOTS: Numero di colpi
+  LABEL_BONUSES: Bonus
+  LABEL_BIGGEST_COMBO: Combo più grande
+  LABEL_DURATION: Durata
+  LABEL_COLOR_BLIND: Daltonico
+  LABEL_SPECIAL_FX: Effetti visivi
+  LABEL_CAMERA_SHAKING: Vibrazioni della telecamera
+  LABEL_DIFFICULTY: Difficoltà
+  LABEL_EASY: Facile
+  LABEL_HARD: Difficile
+  LABEL_REWARD: Ricompensa
+  LABEL_FIREND_ONLY: Solo amici
+  LABEL_STEAM_NOT_DETECTED: |
+    Non si puo' raggiungere lo Steam.
+
+    Riavviare Steam.
+    Se il problema persiste, contattaci:
+    contact@binogure-studio.com
+  LABEL_DEMO_NOT_AVAILABLE: Non disponibile nella demo
+  LABEL_LEADERBOARD_BEST_SCORE: Il miglior punteggio del mondo
+  LABEL_DEMO_VERSION: Versione demo
   LABEL_TOOLS: Realizzato con
   LABEL_DISCORD_COMMUNITY: Comunità Discord
   LABEL_VERSION: "Versione: %s"

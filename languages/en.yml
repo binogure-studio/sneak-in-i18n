@@ -25,7 +25,64 @@ en:
   BUTTON_PRIVACY: privacy policy
   BUTTON_LOAD: Load savegame
   BUTTON_APPLY: Apply
+  BUTTON_FEEDBACK: Feedback
+  BUTTON_RESET_SAVEGAME: Clear savegame
 
+  TOOLTIP_HOLD_TO_CLICK: Hold to click
+
+  LABEL_MARBLE_BLACKHOLE: |
+    The black hole marble.
+    It disappears as soon as you shoot at it.
+  LABEL_MARBLE_ROCK: |
+    The pebble marble.
+    It takes the appearance of the marble that touches it.
+  LABEL_MARBLE_SQUARE: |
+    The square marble.
+    When you shoot a marble at it, it bounces back, although the square marble immediately turns back into a regular marble.
+  LABEL_MARBLE_FROZEN: |
+    The frozen marble.
+    To break the ice, you have to pop this marble with marbles of the same color.
+    Once melted, it turns back into a normal marble.
+  LABEL_MARBLE_GHOST: |
+    The ghost marble.
+    It has a paler color than the other marbles.
+    If, for example, a ghost marble looks pale red, shoot it with a red marble to make it a normal marble again.
+  LABEL_MARBLE_VIRUS: |
+    The virus marble.
+    The terrible marble.
+    Slowly this marble contaminates the other marbles around it.
+    The only way to get rid of it is to explode other marbles around it.
+  LABEL_MARBLE_UNICOLOR: |
+    The multicolor marble.
+    The nicest marble of all.
+    It can be used with any other marble to explode.
+  LABEL_HELP: HELP
+  LABEL_MARBLE_NOT_LAUNCHABLE: |
+    This color of marble cannot be shot by the cannon yet appears on the marble path.
+  LABEL_MARBLE_LAUNCHABLE: |
+    This color of marble can be shot by the cannon.
+  LABEL_ACCURACY: Accuracy
+  LABEL_SHOOTS: Number of shots
+  LABEL_BONUSES: Bonuses
+  LABEL_BIGGEST_COMBO: Biggest combo
+  LABEL_DURATION: Duration
+  LABEL_COLOR_BLIND: Colorblind
+  LABEL_SPECIAL_FX: Visual effects
+  LABEL_CAMERA_SHAKING: Camera shake
+  LABEL_DIFFICULTY: Difficulty
+  LABEL_EASY: Easy
+  LABEL_HARD: Hard
+  LABEL_REWARD: Reward
+  LABEL_FIREND_ONLY: Friends only
+  LABEL_STEAM_NOT_DETECTED: |
+    Steam can't be reached.
+
+    Please restart Steam.
+    If the problem persists, please contact us:
+    contact@binogure-studio.com
+  LABEL_DEMO_NOT_AVAILABLE: Not available in the demo
+  LABEL_LEADERBOARD_BEST_SCORE: World's best score
+  LABEL_DEMO_VERSION: Demo version
   LABEL_TOOLS: Made with
   LABEL_DISCORD_COMMUNITY: Discord community
   LABEL_VERSION: "Version: %s"
@@ -129,7 +186,7 @@ en:
   LABEL_HEART_MESSAGE: You've recovered all your lives
   LABEL_TIP_00: Marbles of the same color attract each other
   LABEL_TIP_01: You have to shoot a square marble twice to make it round again
-  LABEL_TIP_02: Bigger combos, earn a higher score
+  LABEL_TIP_02: The bigger the combos, the higher the score
   LABEL_TIP_03: Complete the objectives to stop marbles from spawning
   LABEL_TIP_04: A new endless mode every week
   LABEL_TIP_05: It is impossible to shoot Seth the reptile

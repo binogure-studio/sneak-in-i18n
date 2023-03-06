@@ -25,7 +25,64 @@ de:
   BUTTON_PRIVACY: datenschutz-bestimmungen
   BUTTON_LOAD: Savegame laden
   BUTTON_APPLY: Anwenden
+  BUTTON_FEEDBACK: Rückmeldung
+  BUTTON_RESET_SAVEGAME: Savegame löschen
 
+  TOOLTIP_HOLD_TO_CLICK: Zum Klicken gedrückt halten
+
+  LABEL_MARBLE_BLACKHOLE: |
+    Die schwarze Lochmurmel.
+    Sie verschwindet, sobald man auf sie schießt.
+  LABEL_MARBLE_ROCK: |
+    Die Kieselsteinmurmel.
+    Sie nimmt das Aussehen der Murmel an, die sie berührt.
+  LABEL_MARBLE_SQUARE: |
+    Die quadratische Murmel.
+    Wenn man eine Murmel auf sie schießt, prallt sie zurück, obwohl sich die quadratische Murmel sofort wieder in eine normale Murmel verwandelt.
+  LABEL_MARBLE_FROZEN: |
+    Die gefrorene Murmel.
+    Um das Eis zu brechen, muss man diese Murmel mit Murmeln der gleichen Farbe anstoßen.
+    Sobald sie geschmolzen ist, verwandelt sie sich wieder in eine normale Murmel.
+  LABEL_MARBLE_GHOST: |
+    Die Geistermurmel.
+    Sie hat eine blassere Farbe als die anderen Murmeln.
+    Wenn eine Geistermurmel z. B. blassrot aussieht, schieße sie mit einer roten Murmel, um sie wieder in eine normale Murmel zu verwandeln.
+  LABEL_MARBLE_VIRUS: |
+    Die Virus-Murmel.
+    Die schreckliche Murmel.
+    Langsam verseucht diese Murmel die anderen Murmeln um sie herum.
+    Die einzige Möglichkeit, sie loszuwerden, besteht darin, andere Murmeln in ihrer Umgebung zu sprengen.
+  LABEL_MARBLE_UNICOLOR: |
+    Die Multicolor-Murmel.
+    Die schönste Murmel von allen.
+    Sie kann mit jeder anderen Murmel zum Explodieren gebracht werden.
+  LABEL_HELP: Hilfe
+  LABEL_MARBLE_NOT_LAUNCHABLE: |
+    Diese Farbe der Murmel kann nicht mit der Kanone verschossen werden, erscheint aber auf dem Murmelpfad.
+  LABEL_MARBLE_LAUNCHABLE: |
+    Diese Farbe der Murmel kann mit der Kanone abgeschossen werden.
+  LABEL_ACCURACY: Treffergenauigkeit
+  LABEL_SHOOTS: Anzahl der Schüsse
+  LABEL_BONUSES: Boni
+  LABEL_BIGGEST_COMBO: Größte Combo
+  LABEL_DURATION: Dauer
+  LABEL_COLOR_BLIND: Farbenblind
+  LABEL_SPECIAL_FX: Visuelle Effekte
+  LABEL_CAMERA_SHAKING: Verwackeln der Kamera
+  LABEL_DIFFICULTY: Schwierigkeitsgrad
+  LABEL_EASY: Leicht
+  LABEL_HARD: Schwer
+  LABEL_REWARD: Belohnung
+  LABEL_FIREND_ONLY: Nur Freunde
+  LABEL_STEAM_NOT_DETECTED: |
+    Steam ist nicht erreichbar.
+
+    Bitte starte Steam neu.
+    Wenn das Problem weiterhin besteht, kontaktiere uns bitte:
+    contact@binogure-studio.com
+  LABEL_DEMO_NOT_AVAILABLE: In der Demo nicht verfügbar
+  LABEL_LEADERBOARD_BEST_SCORE: Weltbestes Ergebnis
+  LABEL_DEMO_VERSION: Demo-Version
   LABEL_TOOLS: Hergestellt aus
   LABEL_DISCORD_COMMUNITY: Discord Community
   LABEL_VERSION: "Version: %s"

@@ -2,20 +2,25 @@ const yaml = require('js-yaml')
 const fs = require('fs')
 const path = require('path')
 
-const language_directory = path.resolve('languages')
+const language_directory = [path.resolve('languages'), path.resolve('achievements')]
 const encoding = {
   encoding: 'utf-8'
 }
+const files = language_directory.reduce((acc, directory) => {
+  return acc.concat(fs.readdirSync(directory).map((filename) => {
+    return path.resolve(directory, filename)
+  }))
+}, [])
 
-const files = fs.readdirSync(language_directory)
-const result = files.reduce((acc, filename) => {
-  console.error(`Reading ${filename}`)
-
-  let filepath = path.resolve(language_directory, filename)
-  let language = path.basename(filename, '.yml')
+const result = files.reduce((acc, filepath) => {
+  let language = path.basename(filepath, '.yml')
   let translation = yaml.load(fs.readFileSync(filepath, encoding))
 
-  acc.id.push(language)
+  console.error(`Reading ${filepath} (${language})`)
+
+  if (!acc.id.find((item) => item == language)) {
+    acc.id.push(language)
+  }
 
   Object.keys(translation[language]).forEach((key) => {
     let value = translation[language][key]
@@ -45,7 +50,6 @@ console.log(Object.keys(result).reduce((acc, key) => {
 
   value.forEach((item) => {
     if (amount_of_percent == null) {
-
       amount_of_percent = item.split('%d').length
     } else if (item != null && amount_of_percent != item.split('%d').length) {
       console.error(`Error with ${key} ${item}`)
@@ -58,7 +62,7 @@ console.log(Object.keys(result).reduce((acc, key) => {
     if (amount_of_percent == null) {
       amount_of_percent = item.split('%s').length
     } else if (item != null && amount_of_percent != item.split('%s').length) {
-      console.error(`Error with ${key}`)
+      console.error(`Error with ${key} ${item}`)
     }
   })
 

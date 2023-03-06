@@ -25,7 +25,59 @@ zh:
   BUTTON_PRIVACY: 隐私政策
   BUTTON_LOAD: 载入保存游戏
   BUTTON_APPLY: 应用
+  BUTTON_FEEDBACK: 意见反馈
+  BUTTON_RESET_SAVEGAME: 清除保存游戏
 
+  TOOLTIP_HOLD_TO_CLICK: 按住点击
+
+  LABEL_MARBLE_BLACKHOLE: |
+    黑洞弹珠。
+    只要你向它开枪，它就会消失。
+  LABEL_MARBLE_ROCK: |
+    卵石弹珠。
+    它的外观与触及它的大理石相同。
+  LABEL_MARBLE_SQUARE: |
+    方形弹珠。
+    当你用弹珠射向它时，它会被弹回来，尽管方形弹珠会立即变回普通弹珠。
+  LABEL_MARBLE_FROZEN: |
+    冰冻弹珠。
+    为了打破冰层，你必须用相同颜色的弹珠弹出这个弹珠。一旦融化，它就会变回普通的弹珠。
+  LABEL_MARBLE_GHOST: |
+    幽灵弹珠。
+    它的颜色比其他弹珠要淡。例如，如果一个幽灵弹珠看起来是淡红色的，用一个红色的弹珠射它，使它重新成为一个正常的弹珠。
+  LABEL_MARBLE_VIRUS: |
+    病毒弹珠。
+    可怕的弹珠。慢慢地，这个弹珠会污染它周围的其他弹珠。摆脱它的唯一方法就是炸掉它周围的其他弹珠。
+  LABEL_MARBLE_UNICOLOR: |
+    多色弹珠。
+    最漂亮的大理石。它可以和任何其他弹珠一起使用来爆炸。
+  LABEL_HELP: 帮助
+  LABEL_MARBLE_NOT_LAUNCHABLE: |
+    这种颜色的大理石不能被大炮射中，但会出现在大理石路径上。
+  LABEL_MARBLE_LAUNCHABLE: |
+    这种颜色的大理石可以被大炮射中。
+  LABEL_ACCURACY: 准确度
+  LABEL_SHOOTS: 射击次数
+  LABEL_BONUSES: 奖金
+  LABEL_BIGGEST_COMBO: 最大的连击
+  LABEL_DURATION: 持续时间
+  LABEL_COLOR_BLIND: 色盲
+  LABEL_SPECIAL_FX: 视觉效果
+  LABEL_CAMERA_SHAKING: 摄像机晃动
+  LABEL_DIFFICULTY: 难度
+  LABEL_EASY: 简单
+  LABEL_HARD: 困难
+  LABEL_REWARD: 奖励
+  LABEL_FIREND_ONLY: 仅限朋友
+  LABEL_STEAM_NOT_DETECTED: |
+    无法连接至Steam。
+
+    请重新启动Steam。
+    如果问题仍然存在，请与我们联系：
+    contact@binogure-studio.com
+  LABEL_DEMO_NOT_AVAILABLE: 演示中没有
+  LABEL_LEADERBOARD_BEST_SCORE: 世界最佳成绩
+  LABEL_DEMO_VERSION: 演示版
   LABEL_TOOLS: 制成
   LABEL_DISCORD_COMMUNITY: Discord社区
   LABEL_VERSION: 版本：%s

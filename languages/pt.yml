@@ -25,7 +25,62 @@ pt:
   BUTTON_PRIVACY: política de privacidade
   BUTTON_LOAD: Carregar jogo de salvamento
   BUTTON_APPLY: Aplique
+  BUTTON_FEEDBACK: Feedback
+  BUTTON_RESET_SAVEGAME: Salvar o jogo limpo
 
+  TOOLTIP_HOLD_TO_CLICK: Segurar para clicar
+
+  LABEL_MARBLE_BLACKHOLE: |
+    O mármore do buraco negro.
+    Desaparece assim que se dispara contra ele.
+  LABEL_MARBLE_ROCK: |
+    O mármore do calhau.
+    Tira a aparência do mármore que lhe toca.
+  LABEL_MARBLE_SQUARE: |
+    O mármore quadrado.
+    Quando se dispara contra ele, o mármore ricocheteia, embora o mármore quadrado volte imediatamente a ser um mármore normal.
+  LABEL_MARBLE_FROZEN: |
+    O berlinde congelado.
+    Para quebrar o gelo, é preciso rebentar este mármore com mármores da mesma cor.
+    Uma vez derretido, transforma-se novamente num berlinde normal.
+  LABEL_MARBLE_GHOST: |
+    O berlinde fantasma.
+    Tem uma cor mais pálida do que os outros mármores.
+    Se, por exemplo, um berlinde fantasma parecer vermelho pálido, dispare-o com um berlinde vermelho para torná-lo novamente um berlinde normal.
+  LABEL_MARBLE_VIRUS: |
+    O berlinde vírus.
+    O berlinde terrível. Lentamente este mármore contamina os outros mármores que o rodeiam.
+    A única maneira de se livrar dele é explodir outros berlindes à sua volta.
+  LABEL_MARBLE_UNICOLOR: |
+    O berlinde multicolor.
+    O mármore mais bonito de todos. Pode ser usado com qualquer outro mármore para explodir.
+  LABEL_HELP: Ajuda
+  LABEL_MARBLE_NOT_LAUNCHABLE: |
+    Esta cor de mármore não pode ser disparada pelo canhão, mas aparece no caminho do mármore.
+  LABEL_MARBLE_LAUNCHABLE: |
+    Esta cor de mármore pode ser disparada pelo canhão.
+  LABEL_ACCURACY: Precisão
+  LABEL_SHOOTS: Número de tiros
+  LABEL_BONUSES: Bónus
+  LABEL_BIGGEST_COMBO: A maior combinação
+  LABEL_DURATION: Duração
+  LABEL_COLOR_BLIND: Daltónico
+  LABEL_SPECIAL_FX: Efeitos visuais
+  LABEL_CAMERA_SHAKING: Trepidação da câmara
+  LABEL_DIFFICULTY: Dificuldade
+  LABEL_EASY: Fácil
+  LABEL_HARD: Difícil
+  LABEL_REWARD: Recompensa
+  LABEL_FIREND_ONLY: Apenas amigos
+  LABEL_STEAM_NOT_DETECTED: |
+    O Steam não pode ser alcançado.
+
+    Por favor, reinicie o Steam.
+    Se o problema persistir, por favor contacte-nos:
+    contact@binogure-studio.com
+  LABEL_DEMO_NOT_AVAILABLE: Não disponível na demonstração
+  LABEL_LEADERBOARD_BEST_SCORE: A melhor pontuação do mundo
+  LABEL_DEMO_VERSION: Versão de demonstração
   LABEL_TOOLS: Feito com
   LABEL_DISCORD_COMMUNITY: Comunidade Discord
   LABEL_VERSION: "Versão: %s"

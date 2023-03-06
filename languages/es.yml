@@ -25,7 +25,62 @@ es:
   BUTTON_PRIVACY: política de privacidad
   BUTTON_LOAD: Cargar el juego de salvamento
   BUTTON_APPLY: Aplicar
+  BUTTON_FEEDBACK: Comentarios
+  BUTTON_RESET_SAVEGAME: Borrar partida guardada
 
+  TOOLTIP_HOLD_TO_CLICK: Mantén pulsado para hacer clic
+
+  LABEL_MARBLE_BLACKHOLE: |
+    La canica del agujero negro.
+    Desaparece en cuanto le disparas.
+  LABEL_MARBLE_ROCK: |
+    La canica guijarro.
+    Toma el aspecto de la canica que la toca.
+  LABEL_MARBLE_SQUARE: |
+    La canica cuadrada.
+    Cuando le disparas una canica, rebota, aunque la canica cuadrada se convierte inmediatamente en una canica normal.
+  LABEL_MARBLE_FROZEN: |
+    La canica congelada.
+    Para romper el hielo, tienes que reventar esta canica con canicas del mismo color.
+    Una vez derretida, vuelve a convertirse en una canica normal.
+  LABEL_MARBLE_GHOST: |
+    La canica fantasma.
+    Tiene un color más pálido que las demás canicas.
+    Si, por ejemplo, una canica fantasma tiene un color rojo pálido, dispárale con una canica roja para que vuelva a ser una canica normal.
+  LABEL_MARBLE_VIRUS: |
+    La canica virus.
+    La canica terrible. Poco a poco, esta canica contamina a las demás canicas a su alrededor.
+    La única forma de deshacerse de ella es hacer explotar otras canicas a su alrededor.
+  LABEL_MARBLE_UNICOLOR: |
+    La canica multicolor.
+    La canica más bonita de todas. Se puede utilizar con cualquier otra canica para hacerla explotar.
+  LABEL_HELP: Ayuda
+  LABEL_MARBLE_NOT_LAUNCHABLE: |
+    Este color de canica no puede ser disparado por el cañón, pero aparece en el camino de canicas.
+  LABEL_MARBLE_LAUNCHABLE: |
+    Este color de canica puede ser disparado por el cañón.
+  LABEL_ACCURACY: Precisión
+  LABEL_SHOOTS: Número de disparos
+  LABEL_BONUSES: Bonificaciones
+  LABEL_BIGGEST_COMBO: Mayor combo
+  LABEL_DURATION: Duración
+  LABEL_COLOR_BLIND: Daltónico
+  LABEL_SPECIAL_FX: Efectos visuales
+  LABEL_CAMERA_SHAKING: Movimiento de la cámara
+  LABEL_DIFFICULTY: Dificultad
+  LABEL_EASY: Fácil
+  LABEL_HARD: Difícil
+  LABEL_REWARD: Recompensa
+  LABEL_FIREND_ONLY: Sólo amigos.
+  LABEL_STEAM_NOT_DETECTED: |
+    No se puede detectar Steam.
+
+    Por favor, reinicia Steam y vuelve a intentarlo.
+    Si el problema persiste, contacta con nosotros:
+    contact@binogure-studio.com
+  LABEL_DEMO_NOT_AVAILABLE: No está disponible en la demostración
+  LABEL_LEADERBOARD_BEST_SCORE: La mejor puntuación del mundo
+  LABEL_DEMO_VERSION: Versión de demostración
   LABEL_TOOLS: Hecho con
   LABEL_DISCORD_COMMUNITY: Comunidad de discord
   LABEL_VERSION: "Versión: %s"

@@ -25,7 +25,64 @@ fr:
   BUTTON_PRIVACY: politique de confidentialité
   BUTTON_LOAD: Charger la sauvegarde
   BUTTON_APPLY: Appliquer
+  BUTTON_FEEDBACK: Donner votre avis
+  BUTTON_RESET_SAVEGAME: Effacer la sauvegarde
 
+  TOOLTIP_HOLD_TO_CLICK: Maintenir pour cliquer
+
+  LABEL_MARBLE_BLACKHOLE: |
+    La bille trou noir.
+    C'est une bille qui disparaît dès qu'on lui tire dessus.
+  LABEL_MARBLE_ROCK: |
+    La bille caillou.
+    C'est une bille qui prend l'apparence de la bille qui la touche.
+  LABEL_MARBLE_SQUARE: |
+    La bille carré.
+    Si vous tirez une bille dessus, elle va rebondir, mais la bille carré va aussitôt redevenir une bille ronde normale
+  LABEL_MARBLE_FROZEN: |
+    La bille gelée.
+    Pour briser la glace, vous devez faire exploser cette bille avec des billes de la même couleur.
+    Une fois la glace fondue, elle redevient une bille normale.
+
+  LABEL_MARBLE_GHOST: |
+    La bille fantôme.
+    Elle porte une couleur plus pâle que les autres.
+    Si par exemple, une bille fantôme semble rouge pâle, tirez-lui dessus avec une bille rouge pour que ça redevienn une bille normale.
+
+  LABEL_MARBLE_VIRUS: |
+    La bille virus.
+    C'est la plus terrible des billes. Petit à petit cette bille contamine les autres billes autour d'elle.
+    La seule manière de s'en débarasser c'est de faire exploser d'autres billes a proximité.
+  LABEL_MARBLE_UNICOLOR: |
+    La bille multicolor.
+    C'est la plus sympa des billes. Elle peut s'accomoder de n'importe quelle autre bille pour exploser.
+  LABEL_HELP: Aide
+  LABEL_MARBLE_NOT_LAUNCHABLE: |
+    Cette couleur de bille ne peut être lancée par le cannon mais peut apparaitre sur le chemin de bille.
+  LABEL_MARBLE_LAUNCHABLE: |
+    Cette couleur de bille peut être lancée par le cannon.
+  LABEL_ACCURACY: Précision
+  LABEL_SHOOTS: Nombre de tirs
+  LABEL_BONUSES: Bonus
+  LABEL_BIGGEST_COMBO: Plus grand combo
+  LABEL_DURATION: Durée
+  LABEL_COLOR_BLIND: Daltonien
+  LABEL_SPECIAL_FX: Effets visuels
+  LABEL_CAMERA_SHAKING: Tremblements de la caméra
+  LABEL_DIFFICULTY: Difficulté
+  LABEL_EASY: Facile
+  LABEL_HARD: Difficile
+  LABEL_REWARD: Récompense
+  LABEL_FIREND_ONLY: Amis seulement
+  LABEL_STEAM_NOT_DETECTED: |
+    Impossible de joindre Steam.
+
+    Merci de redémarrer Steam.
+    Si le problème persiste, veuillez contacter:
+    contact@binogure-studio.com
+  LABEL_DEMO_NOT_AVAILABLE: Pas disponible dans la démo
+  LABEL_LEADERBOARD_BEST_SCORE: Meilleur score mondial
+  LABEL_DEMO_VERSION: Version de démonstration
   LABEL_TOOLS: Fait avec
   LABEL_DISCORD_COMMUNITY: Communauté discord
   LABEL_VERSION: "Version: %s"
