@@ -1,35 +1,51 @@
 ru:
-  BUTTON_OPTIONS: Параметры
+  BUTTON_CONFINE_MOUSE: Ограничить курсор мыши
+  BUTTON_OPTIONS: Опции
   BUTTON_CREDITS: Кредиты
-  BUTTON_START: Идти
-  BUTTON_LEAVE: назад
-  BUTTON_EXIT: Уволиться
-  BUTTON_RETRY: Повтор
-  BUTTON_CONTINUE: Продолжать
-  BUTTON_CANCEL: Отмена
+  BUTTON_START: Перейти на сайт
+  BUTTON_LEAVE: Назад
+  BUTTON_EXIT: Выйти из системы
+  BUTTON_RETRY: Повторить
+  BUTTON_CONTINUE: Продолжить
+  BUTTON_CANCEL: Отменить
   BUTTON_MAP: Перейти к карте
-  BUTTON_KEEP_PLAYING: Продолжай играть
+  BUTTON_KEEP_PLAYING: Продолжить игру
   BUTTON_CONNECT_FACEBOOK: Подключиться к Facebook
-  BUTTON_FOLLOW_US_ON_TWITTER: Следуйте за нами на Twitter
+  BUTTON_FOLLOW_US_ON_TWITTER: Следите за нами в twitter
   BUTTON_REFILL: Использовать зелье
-  BUTTON_LAUNCH: Начало
+  BUTTON_LAUNCH: Начать
   BUTTON_FACEBOOK: Facebook
   BUTTON_DISCONNECT_FACEBOOK: Отключить Facebook
   BUTTON_INVITE: Пригласить друзей
   BUTTON_SHARE: Поделиться
   BUTTON_RATEIT: Оценить
   BUTTON_ACHIEVEMENTS: Показать достижения
-  BUTTON_DISCONNECT_GOOGLE: Отключить от Google Play Game
-  BUTTON_CONNECT_GOOGLE: Подключитесь к Google Play Game
-  BUTTON_PLAY_INFINITE: Играть !
+  BUTTON_DISCONNECT_GOOGLE: Отключиться от игры Google Play
+  BUTTON_CONNECT_GOOGLE: Подключиться к Google Play Игре
+  BUTTON_PLAY_INFINITE: Играть!
   BUTTON_PRIVACY: политика конфиденциальности
-  BUTTON_LOAD: Загрузка сохранения
-  BUTTON_APPLY: Подать заявление
+  BUTTON_LOAD: Загрузить сохранение
+  BUTTON_APPLY: Применить
   BUTTON_FEEDBACK: Обратная связь
-  BUTTON_RESET_SAVEGAME: Очистить сохраненную игру
+  BUTTON_RESET_SAVEGAME: Очистить сохранение
 
+  LABEL_UPCOMING_GAME: В список желаний сегодня!
   TOOLTIP_HOLD_TO_CLICK: Удерживайте для нажатия
+  TOOLTIP_DIFFICULTY: |
+    Влияет на скорость мячей, чем легче, тем медленнее летят мячи.
+    И наоборот, чем сложнее, тем быстрее летят мячи.
 
+    Сложность также влияет на количество очков.
+    Чем проще, тем меньше очков вы получите, а чем сложнее, тем больше очков вы получите.
+  TOOLTIP_MEDALS: |
+    Заканчивайте уровни как можно быстрее, чтобы получить лучшую медаль.
+
+  LABEL_PRESS_KEY_TO_ASSIGN_SHORTCUT: |
+    Нажмите клавишу, чтобы назначить ее на действие "%s"
+  LABEL_SHOOT: Стреляйте
+  LABEL_SWITCH_MARBLE: Сменить шарик
+  LABEL_SWITCH_CANNON_POSITION: Измените положение ствола
+  LABEL_HIDE_MOUSE_CURSOR_ON_TOUCHSCREEN: Скрыть курсор мыши (только на сенсорном экране)
   LABEL_MARBLE_BLACKHOLE: |
     Мрамор из черной дыры.
     Исчезает, как только вы в него выстрелите.

@@ -1,35 +1,51 @@
 es:
+  BUTTON_CONFINE_MOUSE: Confinar cursor del mouse
   BUTTON_OPTIONS: Opciones
   BUTTON_CREDITS: Créditos
-  BUTTON_START: Vamonos
-  BUTTON_LEAVE: Espalda
-  BUTTON_EXIT: Dejar
-  BUTTON_RETRY: Rever
+  BUTTON_START: Ir a
+  BUTTON_LEAVE: Atrás
+  BUTTON_EXIT: Salir de
+  BUTTON_RETRY: Reintentar
   BUTTON_CONTINUE: Continuar
   BUTTON_CANCEL: Cancelar
   BUTTON_MAP: Ir al mapa
-  BUTTON_KEEP_PLAYING: Sigue jugando
+  BUTTON_KEEP_PLAYING: Seguir jugando
   BUTTON_CONNECT_FACEBOOK: Conéctate a Facebook
-  BUTTON_FOLLOW_US_ON_TWITTER: Síganos en Twitter
-  BUTTON_REFILL: Usa la poción
-  BUTTON_LAUNCH: Comienzo
+  BUTTON_FOLLOW_US_ON_TWITTER: Síguenos en twitter
+  BUTTON_REFILL: Usar poción
+  BUTTON_LAUNCH: Iniciar
   BUTTON_FACEBOOK: Facebook
   BUTTON_DISCONNECT_FACEBOOK: Desconectar Facebook
   BUTTON_INVITE: Invita a tus amigos
   BUTTON_SHARE: Compartir
-  BUTTON_RATEIT: Puntúalo
+  BUTTON_RATEIT: Puntuar
   BUTTON_ACHIEVEMENTS: Mostrar logros
-  BUTTON_DISCONNECT_GOOGLE: Desconectar de Google Play Game
-  BUTTON_CONNECT_GOOGLE: Conéctese con Google Play Game
-  BUTTON_PLAY_INFINITE: Jugar !
-  BUTTON_PRIVACY: política de privacidad
-  BUTTON_LOAD: Cargar el juego de salvamento
+  BUTTON_DISCONNECT_GOOGLE: Desconectarse de Google Play Game
+  BUTTON_CONNECT_GOOGLE: Conectarse a Google Play Game
+  BUTTON_PLAY_INFINITE: Jugar
+  BUTTON_PRIVACY: Política de privacidad
+  BUTTON_LOAD: Cargar partida guardada
   BUTTON_APPLY: Aplicar
   BUTTON_FEEDBACK: Comentarios
   BUTTON_RESET_SAVEGAME: Borrar partida guardada
 
+  LABEL_UPCOMING_GAME: ¡A la lista de deseos!
   TOOLTIP_HOLD_TO_CLICK: Mantén pulsado para hacer clic
+  TOOLTIP_DIFFICULTY: |
+    Impacta en la velocidad de las bolas, cuanto más fácil es, más despacio van las bolas.
+    Y a la inversa, cuanto más difícil es, más rápido van las bolas.
 
+    La dificultad también afecta a la puntuación.
+    Cuanto más fácil sea, menos puntos conseguirás, y cuanto más difícil sea, más puntos conseguirás.
+  TOOLTIP_MEDALS: |
+    Termina los niveles lo más rápido posible para conseguir la mejor medalla.
+
+  LABEL_PRESS_KEY_TO_ASSIGN_SHORTCUT: |
+    Pulse una tecla para asignarla a la acción "%s"
+  LABEL_SHOOT: Dispara a
+  LABEL_SWITCH_MARBLE: Cambia la bola
+  LABEL_SWITCH_CANNON_POSITION: Cambia la posición del cañón
+  LABEL_HIDE_MOUSE_CURSOR_ON_TOUCHSCREEN: Ocultar el cursor del ratón (sólo pantalla táctil)
   LABEL_MARBLE_BLACKHOLE: |
     La canica del agujero negro.
     Desaparece en cuanto le disparas.

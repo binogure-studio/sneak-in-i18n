@@ -1,35 +1,51 @@
 pt:
+  BUTTON_CONFINE_MOUSE: Limitar o cursor do mouse
   BUTTON_OPTIONS: Opções
   BUTTON_CREDITS: Créditos
-  BUTTON_START: Vamos começar !
-  BUTTON_LEAVE: Costas
+  BUTTON_START: Ir para
+  BUTTON_LEAVE: Voltar
   BUTTON_EXIT: Sair
-  BUTTON_RETRY: Retribuição
+  BUTTON_RETRY: Repetir
   BUTTON_CONTINUE: Continuar
   BUTTON_CANCEL: Cancelar
-  BUTTON_MAP: Vá para o mapa
-  BUTTON_KEEP_PLAYING: Continue jogando
-  BUTTON_CONNECT_FACEBOOK: Conecte ao Facebook
-  BUTTON_FOLLOW_US_ON_TWITTER: Siga-nos no Twitter
-  BUTTON_REFILL: Use poção
+  BUTTON_MAP: Ir para o mapa
+  BUTTON_KEEP_PLAYING: Continuar a jogar
+  BUTTON_CONNECT_FACEBOOK: Ligar ao Facebook
+  BUTTON_FOLLOW_US_ON_TWITTER: Segue-nos no Twitter
+  BUTTON_REFILL: Usar poção
   BUTTON_LAUNCH: Começar
   BUTTON_FACEBOOK: Facebook
-  BUTTON_DISCONNECT_FACEBOOK: Desconectar o Facebook
-  BUTTON_INVITE: Convide seus amigos
-  BUTTON_SHARE: Compartilhar
-  BUTTON_RATEIT: Avalie
+  BUTTON_DISCONNECT_FACEBOOK: Desligar o Facebook
+  BUTTON_INVITE: Convidar os amigos
+  BUTTON_SHARE: Partilhar
+  BUTTON_RATEIT: Avaliar
   BUTTON_ACHIEVEMENTS: Mostrar conquistas
-  BUTTON_DISCONNECT_GOOGLE: Desconectar-se do Google Play Game
-  BUTTON_CONNECT_GOOGLE: Conecte-se ao Google Play Game
-  BUTTON_PLAY_INFINITE: Toque !
+  BUTTON_DISCONNECT_GOOGLE: Desconectar do Google Play Game
+  BUTTON_CONNECT_GOOGLE: Ligar ao Google Play Game
+  BUTTON_PLAY_INFINITE: Jogar!
   BUTTON_PRIVACY: política de privacidade
-  BUTTON_LOAD: Carregar jogo de salvamento
-  BUTTON_APPLY: Aplique
+  BUTTON_LOAD: Carregar jogo guardado
+  BUTTON_APPLY: Aplicar
   BUTTON_FEEDBACK: Feedback
-  BUTTON_RESET_SAVEGAME: Salvar o jogo limpo
+  BUTTON_RESET_SAVEGAME: Limpar jogo guardado
 
+  LABEL_UPCOMING_GAME: Para a lista de desejos de hoje!
   TOOLTIP_HOLD_TO_CLICK: Segurar para clicar
+  TOOLTIP_DIFFICULTY: |
+    Impacta a velocidade das bolas, quanto mais fácil for, mais lentas serão as bolas.
+    E, inversamente, quanto mais difícil for, mais rápidas são as bolas.
 
+    A dificuldade também afecta a pontuação.
+    Quanto mais fácil for, menos pontos marcará, e quanto mais difícil for, mais pontos marcará.
+  TOOLTIP_MEDALS: |
+    Termina os níveis o mais rapidamente possível para obteres a melhor medalha.
+
+  LABEL_PRESS_KEY_TO_ASSIGN_SHORTCUT: |
+    Premir uma tecla para a atribuir à acção "%s"
+  LABEL_SHOOT: Atirar
+  LABEL_SWITCH_MARBLE: Mudar a bola
+  LABEL_SWITCH_CANNON_POSITION: Muda a posição do cano
+  LABEL_HIDE_MOUSE_CURSOR_ON_TOUCHSCREEN: Ocultar o cursor do rato (apenas ecrã táctil)
   LABEL_MARBLE_BLACKHOLE: |
     O mármore do buraco negro.
     Desaparece assim que se dispara contra ele.

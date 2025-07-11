@@ -1,4 +1,5 @@
 en:
+  BUTTON_CONFINE_MOUSE: Confine mouse cursor
   BUTTON_OPTIONS: Options
   BUTTON_CREDITS: Credits
   BUTTON_START: Go
@@ -28,8 +29,23 @@ en:
   BUTTON_FEEDBACK: Feedback
   BUTTON_RESET_SAVEGAME: Clear savegame
 
+  LABEL_UPCOMING_GAME: Wishlist today!
   TOOLTIP_HOLD_TO_CLICK: Hold to click
+  TOOLTIP_DIFFICULTY: |
+    Impacts the speed of the marbles, the easier it is, the slower the marbles go.
+    The harder it is, the faster the marbles go.
 
+    The difficulty also impacts the score.
+    The easier it is, the less points you will score, and the harder it is, the more points you will score.
+  TOOLTIP_MEDALS: |
+    Finish the levels as quickly as possible to get the best medal.
+
+  LABEL_PRESS_KEY_TO_ASSIGN_SHORTCUT: |
+    Press a key to assign it to the "%s" action
+  LABEL_SHOOT: Shoot
+  LABEL_SWITCH_MARBLE: Change the marble
+  LABEL_SWITCH_CANNON_POSITION: Change the position of the cannon
+  LABEL_HIDE_MOUSE_CURSOR_ON_TOUCHSCREEN: Hide mouse cursor (touchscreen only)
   LABEL_MARBLE_BLACKHOLE: |
     The black hole marble.
     It disappears as soon as you shoot at it.

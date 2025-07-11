@@ -1,35 +1,52 @@
 de:
+  BUTTON_CONFINE_MOUSE: Mauszeiger einschränken
   BUTTON_OPTIONS: Optionen
-  BUTTON_CREDITS: Credits
-  BUTTON_START: Gehen
+  BUTTON_CREDITS: Impressum
+  BUTTON_START: Weiter
   BUTTON_LEAVE: Zurück
-  BUTTON_EXIT: Verlassen
+  BUTTON_EXIT: Beenden
   BUTTON_RETRY: Wiederholen
-  BUTTON_CONTINUE: Fortsetzen
-  BUTTON_CANCEL: Stornieren
-  BUTTON_MAP: Gehe zur Karte
-  BUTTON_KEEP_PLAYING: Weiter spielen
-  BUTTON_CONNECT_FACEBOOK: Verbinde dich mit Facebook
-  BUTTON_FOLLOW_US_ON_TWITTER: Folge uns auf Twitter
-  BUTTON_REFILL: Benutze einen Trank
-  BUTTON_LAUNCH: Anfang
+  BUTTON_CONTINUE: Weiter
+  BUTTON_CANCEL: Abbrechen
+  BUTTON_MAP: Zur Karte gehen
+  BUTTON_KEEP_PLAYING: Weiterspielen
+  BUTTON_CONNECT_FACEBOOK: Mit Facebook verbinden
+  BUTTON_FOLLOW_US_ON_TWITTER: Folgen Sie uns auf Twitter
+  BUTTON_REFILL: Zaubertrank verwenden
+  BUTTON_LAUNCH: starten
   BUTTON_FACEBOOK: Facebook
-  BUTTON_DISCONNECT_FACEBOOK: Trennen Sie Facebook
-  BUTTON_INVITE: Lade deine Freunde ein
-  BUTTON_SHARE: Aktie
-  BUTTON_RATEIT: Bewerte es
+  BUTTON_DISCONNECT_FACEBOOK: Trenne die Verbindung zu Facebook
+  BUTTON_INVITE: Laden Sie Ihre Freunde ein
+  BUTTON_SHARE: Teilen
+  BUTTON_RATEIT: Bewerten
   BUTTON_ACHIEVEMENTS: Erfolge anzeigen
-  BUTTON_DISCONNECT_GOOGLE: Trennen Sie sich von Google Play Game
-  BUTTON_CONNECT_GOOGLE: Verbinde dich mit Google Play Game
-  BUTTON_PLAY_INFINITE: Abspielen !
-  BUTTON_PRIVACY: datenschutz-bestimmungen
+  BUTTON_DISCONNECT_GOOGLE: Verbindung zu Google Play Game unterbrechen
+  BUTTON_CONNECT_GOOGLE: Mit Google Play Game verbinden
+  BUTTON_PLAY_INFINITE: Spielen!
+  BUTTON_PRIVACY: Datenschutzbestimmungen
   BUTTON_LOAD: Savegame laden
-  BUTTON_APPLY: Anwenden
+  BUTTON_APPLY: anwenden
   BUTTON_FEEDBACK: Rückmeldung
-  BUTTON_RESET_SAVEGAME: Savegame löschen
+  BUTTON_RESET_SAVEGAME: Spielstand löschen
 
+  LABEL_UPCOMING_GAME: Heute auf die Wunschliste!
   TOOLTIP_HOLD_TO_CLICK: Zum Klicken gedrückt halten
+  TOOLTIP_DIFFICULTY: |
+    Beeinflusst die Geschwindigkeit der Murmeln.
+    Je leichter es ist, desto weniger schnell sind die Murmeln.
+    Umgekehrt gilt: Je schwerer, desto schneller die Murmeln.
 
+    Der Schwierigkeitsgrad wirkt sich auch auf die Punktzahl aus.
+    Je leichter, desto weniger Punkte werden erzielt, und je schwerer, desto mehr Punkte werden erzielt.
+  TOOLTIP_MEDALS: |
+    Beende die Level so schnell wie möglich, um die beste Medaille zu bekommen.
+
+  LABEL_PRESS_KEY_TO_ASSIGN_SHORTCUT: |
+    Press a key to assign it to the "%s" action
+  LABEL_SHOOT: Schießen
+  LABEL_SWITCH_MARBLE: Die Kugel wechseln
+  LABEL_SWITCH_CANNON_POSITION: Die Position des Laufs ändern
+  LABEL_HIDE_MOUSE_CURSOR_ON_TOUCHSCREEN: Mauszeiger ausblenden (nur Touchscreen)
   LABEL_MARBLE_BLACKHOLE: |
     Die schwarze Lochmurmel.
     Sie verschwindet, sobald man auf sie schießt.

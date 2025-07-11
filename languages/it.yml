@@ -1,35 +1,51 @@
 it:
+  BUTTON_CONFINE_MOUSE: Confina il cursore del mouse
   BUTTON_OPTIONS: Opzioni
   BUTTON_CREDITS: Crediti
-  BUTTON_START: Partire
+  BUTTON_START: Vai
   BUTTON_LEAVE: Indietro
-  BUTTON_EXIT: Smettere
-  BUTTON_RETRY: Retry
+  BUTTON_EXIT: Abbandono
+  BUTTON_RETRY: Riprova
   BUTTON_CONTINUE: Continua
   BUTTON_CANCEL: Annulla
   BUTTON_MAP: Vai alla mappa
-  BUTTON_KEEP_PLAYING: Continuare a giocare
-  BUTTON_CONNECT_FACEBOOK: Connetti a Facebook
+  BUTTON_KEEP_PLAYING: Continua a giocare
+  BUTTON_CONNECT_FACEBOOK: Collegati a Facebook
   BUTTON_FOLLOW_US_ON_TWITTER: Seguici su Twitter
   BUTTON_REFILL: Usa la pozione
-  BUTTON_LAUNCH: Inizio
+  BUTTON_LAUNCH: Iniziare
   BUTTON_FACEBOOK: Facebook
-  BUTTON_DISCONNECT_FACEBOOK: Disconnetti Facebook
+  BUTTON_DISCONNECT_FACEBOOK: Disconnettiti da Facebook
   BUTTON_INVITE: Invita i tuoi amici
-  BUTTON_SHARE: Condividere
-  BUTTON_RATEIT: Valutarlo
-  BUTTON_ACHIEVEMENTS: Mostra risultati
+  BUTTON_SHARE: Condividi
+  BUTTON_RATEIT: Vota
+  BUTTON_ACHIEVEMENTS: Mostra i risultati
   BUTTON_DISCONNECT_GOOGLE: Disconnettiti da Google Play Game
-  BUTTON_CONNECT_GOOGLE: Collegati ad Google Play Game
-  BUTTON_PLAY_INFINITE: Giocare !
-  BUTTON_PRIVACY: politica sulla riservatezza
-  BUTTON_LOAD: Carica savegame
+  BUTTON_CONNECT_GOOGLE: Connettiti a Google Play Game
+  BUTTON_PLAY_INFINITE: Gioca!
+  BUTTON_PRIVACY: Informativa sulla privacy
+  BUTTON_LOAD: Carica il gioco di salvataggio
   BUTTON_APPLY: Applicare
   BUTTON_FEEDBACK: Feedback
-  BUTTON_RESET_SAVEGAME: Cancella il gioco di salvataggio
+  BUTTON_RESET_SAVEGAME: Cancella il gioco
 
+  LABEL_UPCOMING_GAME: Da mettere in wishlist oggi!
   TOOLTIP_HOLD_TO_CLICK: Tenere premuto per fare clic
+  TOOLTIP_DIFFICULTY: |
+    Influisce sulla velocità delle palline: più è facile, più le palline vanno lente.
+    Viceversa, più è difficile, più le palline vanno veloci.
 
+    La difficoltà influisce anche sul punteggio.
+    Più è facile, meno punti si otterranno, mentre più è difficile, più punti si otterranno.
+  TOOLTIP_MEDALS: |
+    Finite i livelli il più velocemente possibile per ottenere la medaglia migliore.
+
+  LABEL_PRESS_KEY_TO_ASSIGN_SHORTCUT: |
+    Premere un tasto per assegnarlo all'azione "%s"
+  LABEL_SHOOT: Tiro
+  LABEL_SWITCH_MARBLE: Cambia la palla
+  LABEL_SWITCH_CANNON_POSITION: Cambia la posizione della canna
+  LABEL_HIDE_MOUSE_CURSOR_ON_TOUCHSCREEN: Nascondere il cursore del mouse (solo touchscreen)
   LABEL_MARBLE_BLACKHOLE: |
     La biglia del buco nero.
     Scompare non appena gli si spara contro.

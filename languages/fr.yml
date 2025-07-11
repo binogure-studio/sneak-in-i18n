@@ -1,4 +1,5 @@
 fr:
+  BUTTON_CONFINE_MOUSE: Confiner le curseur de la souris
   BUTTON_OPTIONS: Options
   BUTTON_CREDITS: Crédits
   BUTTON_START: Ok
@@ -28,8 +29,23 @@ fr:
   BUTTON_FEEDBACK: Donner votre avis
   BUTTON_RESET_SAVEGAME: Effacer la sauvegarde
 
+  LABEL_UPCOMING_GAME: A wishlist dès aujourd'hui !
   TOOLTIP_HOLD_TO_CLICK: Maintenir pour cliquer
+  TOOLTIP_DIFFICULTY: |
+    Impacte la vitesse des billes, plus c'est facile moins les billes vont vite.
+    Et inversement, plus c'est dur, plus les billes vont vites.
 
+    La difficulté impacte également le score.
+    Plus c'est facile, moins vous ferez de points, et plus c'est difficile, plus vous ferez des points.
+  TOOLTIP_MEDALS: |
+    Finissez les niveaux le plus rapidement possible pour obtenir la meilleure médaille
+
+  LABEL_PRESS_KEY_TO_ASSIGN_SHORTCUT: |
+    Appuyez sur une touche pour l'assigner à l'action "%s"
+  LABEL_SHOOT: Tirer
+  LABEL_SWITCH_MARBLE: Changer de bille
+  LABEL_SWITCH_CANNON_POSITION: Changer la position du canon
+  LABEL_HIDE_MOUSE_CURSOR_ON_TOUCHSCREEN: Cacher le curseur (Tactile seulement)
   LABEL_MARBLE_BLACKHOLE: |
     La bille trou noir.
     C'est une bille qui disparaît dès qu'on lui tire dessus.
@@ -58,9 +74,9 @@ fr:
     C'est la plus sympa des billes. Elle peut s'accomoder de n'importe quelle autre bille pour exploser.
   LABEL_HELP: Aide
   LABEL_MARBLE_NOT_LAUNCHABLE: |
-    Cette couleur de bille ne peut être lancée par le cannon mais peut apparaitre sur le chemin de bille.
+    Cette couleur de bille ne peut être lancée par le canon mais peut apparaitre sur le chemin de bille.
   LABEL_MARBLE_LAUNCHABLE: |
-    Cette couleur de bille peut être lancée par le cannon.
+    Cette couleur de bille peut être lancée par le canon.
   LABEL_ACCURACY: Précision
   LABEL_SHOOTS: Nombre de tirs
   LABEL_BONUSES: Bonus
